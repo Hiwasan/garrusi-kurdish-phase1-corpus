@@ -1,0 +1,21 @@
+﻿# Private — never commit
+_staging/
+mapping.csv
+*.private.csv
+qa_report_*.txt
+
+# Raw sources — not published
+*.docx
+~$*
+*.mp3
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Pipeline — not published
+scripts/
+
+# Release archives — keep locally, not on GitHub
+*.zip

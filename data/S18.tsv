@@ -1,0 +1,213 @@
+speaker	utt_id	section	elicitation_item	prompt	garrusi	english
+S18	S18_001	Questionnaire	P1: To bury	çe dünîd le naw eksege?	ayre sahile	Here is a beach.
+S18	S18_002	Questionnaire	P1: To bury	çe dünîd le naw eksege?	ay koře ay pîyage çal kirdîye	This boy has buried this man.
+S18	S18_003	Questionnaire	P1: To bury	çe dünîd le naw eksege?	ay pîyagêş xoy çal kirdîye	This man has also buried himself.
+S18	S18_004	Questionnaire	P1: To bury	çe dünîd le naw eksege?	ay pîyagêş dîrî qûtîyegey çal key	This man is also burying his can.
+S18	S18_005	Questionnaire	P1: To bury	çe dünîd le naw eksege?	ay pîyagêş hwar kîşî	This man is also screaming.
+S18	S18_006	Questionnaire	P1: To bury	çe dünîd le naw eksege?	ay segêş keftîye	This dog has also fallen.
+S18	S18_007	Questionnaire	P1: To bury	kî müy serî xakisserîye?	ew pîyage kê çal kirilîyaye çal bîye	That man who has been buried (or) has been intered.
+S18	S18_008	Questionnaire	P1: To bury	çe narincîye?	ew qûtîye’e kê çal bîye	That can which has been buried.
+S18	S18_009	Questionnaire	P2: To carry	çe dünîd le naw eksege?	ayre pîyawge cebe dûwey, weri xoy dûwey	Here the man is carrying the box, is carrying the box with himself.
+S18	S18_010	Questionnaire	P2: To carry	çe dünîd le naw eksege?	ay dû dane koregêş ay kore nîyanin naw lendî dûweney	These two boys have also put this boy in a hammock (and) are carrying him.
+S18	S18_011	Questionnaire	P2: To carry	çe dünîd le naw eksege?	ay kori’êş pay zexmî bîye	This boy also his leg has become wounded.
+S18	S18_012	Questionnaire	P2: To carry	çe dünîd le naw eksege?	nîştîye zemîn dîrî	He has sat on the ground (and) is crying.
+S18	S18_013	Questionnaire	P2: To carry	çe çermüge?	ew cebe’e kê dûweney	That box which they are carrying it [=is being carried].
+S18	S18_014	Questionnaire	P2: To carry	kî kurwasi qirmizî kirdîyuw werî?	ew kore kê naw lendî dûweney	That boy who they are carrying him [=is being carried].
+S18	S18_015	Questionnaire	P3: To cut	çe dünîd le naw eksege?	ay dûwane weri yêk deva kirdîyen	These two people have faught with each other.
+S18	S18_016	Questionnaire	P3: To cut	çe dünîd le naw eksege?	ay kore, ay pîyage daye le pay ay pîyage zexmî kirdîye	This boy, this man has hit on the leg of this man (and so) he has wounded it.
+S18	S18_017	Questionnaire	P3: To cut	çe dünîd le naw eksege?	ley xûn …	Blood from it …
+S18	S18_018	Questionnaire	P3: To cut	çe dünîd le naw eksege?	ay pîyagêş daye le saqeyi dirextege birîye	This man has also hit on the stalk of the tree (and so) has cut it.
+S18	S18_019	Questionnaire	P3: To cut	çe dünîd le naw eksege?	ew dûwanêş weri yêk deva ken	These two persons are also fighting with each other.
+S18	S18_020	Questionnaire	P3: To cut	kî kurwasi benawiş kirdîyuw werî?	ew pîyage kê pay zexmî birilîyaye zexm bîye	That man whose leg has been cut (and so) has become wounded.
+S18	S18_021	Questionnaire	P3: To cut	çe sewze berg neyrî?	ew saqe’e kê birilîyaye	That stalk which has been cut.
+S18	S18_022	Questionnaire	P4: To hit	çe dünîd le naw eksege?	ay dû dane merdege weri yêk tûpbazî ken	These two men are playing baseball with each other.
+S18	S18_023	Questionnaire	P4: To hit	çe dünîd le naw eksege?	ay pîyage weri çûb daye le ay tûpe’e eray ay pîyage pert bikey	This man has hit the ball with a bat (to) throw it for this man.
+S18	S18_024	Questionnaire	P4: To hit	çe dünîd le naw eksege?	ay pîyagêş xastîye ay tupege pert bikey beray ay pîyage daye le seri ay pîyage kê nîştîye	This man also has wanted to throw the ball for this man but instead he has hit on the head of this man who has sat down.
+S18	S18_025	Questionnaire	P4: To hit	çe çehri’îye?	ew pîyage kê daye le tûpege tûpege sûretîye	That man who has hit the ball that ball is pink [=the ball which has been hit by the man is pink].
+S18	S18_026	Questionnaire	P4: To hit	çe çehri’îye?	ew tûpege kê dagin ley sûretîye	That ball which they have hit it [=has been hit] is pink.
+S18	S18_027	Questionnaire	P4: To hit	kî rexti benawiş kirdîyuw werî?	ew pîyage kê we çû da’in le serî	That man who they have hit on his head [=his head has been hit] with a bat.
+S18	S18_028	Questionnaire	P5: To hold	çe dünîd le naw eksege?	dalikege zarûgey le bawuşî girtîye	The mother has hugged her child.
+S18	S18_029	Questionnaire	P5: To hold	çe dünîd le naw eksege?	ay dutêş nîştîye le zemîn bestenî xwey	This child has also sat on the ground (and) is eating an ice cream.
+S18	S18_030	Questionnaire	P5: To hold	çe dünîd le naw eksege?	ay jinêş kûzege girtîye	This woman has also got the clay jar.
+S18	S18_031	Questionnaire	P5: To hold	kî rexti çehri’î kirdîyuw werî?	ew zarû’ege kê bawuşi dalikî îvet girilîyaye sûretîye	That child who has been hugged in her mother’s hug is pink.
+S18	S18_032	Questionnaire	P5: To hold	çe sewze?	ew kûze’e kê jine girtîye îvet kirilîyaye sewze	That clay jar which the woman has got (and) has been held is green.
+S18	S18_033	Questionnaire	P6: To hug	çe dünîd le naw eksege?	ay dute xirsegey bawuş girtîye	This girl has hugged her teddy bear.
+S18	S18_034	Questionnaire	P6: To hug	çe dünîd le naw eksege?	ew dutêş bawkî bawuş girtîye	That girl has also hugged his father.
+S18	S18_035	Questionnaire	P6: To hug	çe dünîd le naw eksege?	ew pîyagêş kitab xwenî	That man is also reading a book.
+S18	S18_036	Questionnaire	P6: To hug	çe dünîd le naw eksege?	ay xirsegêş le bani çûb nîştîye	This teddy bear has also sat on the wood.
+S18	S18_037	Questionnaire	P6: To hug	çe çermüge?	ew xirsege kê bawuş girilîyaye bewuş kirilîyaye	That teddy bear which has been hugged (or) has been embraced.
+S18	S18_038	Questionnaire	P6: To hug	kî kurwasi sewz kirdîyuw werî?	ew pîyage kê bawuş girilîyaye ya bewuş kirilîyaye	That man who has been hugged or has been embraced.
+S18	S18_039	Questionnaire	P7: To kick	çe dünîd le naw eksege?	ayre yê parke	Here is a park.
+S18	S18_040	Questionnaire	P7: To kick	çe dünîd le naw eksege?	ay kore dîrî tûpwazî key	This boy is playing soccer.
+S18	S18_041	Questionnaire	P7: To kick	çe dünîd le naw eksege?	ew dutêş dîrî tûpwazî key	That girl is also playing soccer.
+S18	S18_042	Questionnaire	P7: To kick	çe dünîd le naw eksege?	ay kore dîrî we leqe dey le dute	This boy is kicking the girl.
+S18	S18_043	Questionnaire	P7: To kick	kî rexti kew kirdîyuw werî?	ew dutege kê leqqi dirilî	That girl who is being kicked.
+S18	S18_044	Questionnaire	P7: To kick	çe narincîye?	ew tupege kê leqqe dirilî	That ball which is being kicked.
+S18	S18_045	Questionnaire	P8: To kiss	çe dünîd le naw eksege?	ayre ay jine camege maç key	Here the woman is kissing the cup.
+S18	S18_046	Questionnaire	P8: To kiss	çe dünîd le naw eksege?	ay çar dane duteganêş ayre wûsîyanin ta ay jine camege bey weyan	These four girls have also stood here so that this woman gives the cup to them.
+S18	S18_047	Questionnaire	P8: To kiss	çe dünîd le naw eksege?	ay jinêş dîrî ay dute maç key	This woman is also kissing this girl.
+S18	S18_048	Questionnaire	P8: To kiss	çe dünîd le naw eksege?	ew dutêş dîrî verzêş key	That girl is also exercising.
+S18	S18_049	Questionnaire	P8: To kiss	çe dünîd le naw eksege?	ew pîyagêş ewre wûsîyaye	That man has also stood there.
+S18	S18_050	Questionnaire	P8: To kiss	çe zerde?	ew camege kê maç kiřili, maç kirilîyaye, maç keney	That cup which is being kissed, has been kissed, (or) they are kissing it.
+S18	S18_051	Questionnaire	P8: To kiss	çe zerde?	ew camege kê maç bîye	That cup which has been kissed.
+S18	S18_052	Questionnaire	P8: To kiss	kî müy serî sîyes?	ew dute kê maç bîye, maç kiřili, maç kirilîyaye, maç keney	That girl who has been kissed, is being kissed, has been kissed, (or) they are kissing her.
+S18	S18_053	Questionnaire	P9: To lift	çe dünîd le naw eksege?	ayre yê başgas	Here is a gym.
+S18	S18_054	Questionnaire	P9: To lift	çe dünîd le naw eksege?	ay pîyage yê pîyayî êtê elgirtîye	This man has lifted another man.
+S18	S18_055	Questionnaire	P9: To lift	çe dünîd le naw eksege?	ay pîyagêş desî xem kirdîye verzêş key	This man has also bent his hand (and) is exercising.
+S18	S18_056	Questionnaire	P9: To lift	çe dünîd le naw eksege?	ay pîyagêş yê vezne elgirtîye	This man has also lifted a weight.
+S18	S18_057	Questionnaire	P9: To lift	çe dünîd le naw eksege?	yê veznêş le zemînes hîş kî ne’elgirtîyegey	There is also a weight on the ground (which) no one has lifted it.
+S18	S18_058	Questionnaire	P9: To lift	kî keçele?	ew pîyage kê elvirilîyaye	That man who has been lifted.
+S18	S18_059	Questionnaire	P9: To lift	çe xakisserîye?	ew veznege kê elvirilîyaye	That weight which has been lifted.
+S18	S18_060	Questionnaire	P10: To paint	çe dünîd le naw eksege?	ay pîyage mucessemê reng key	This man is painting a statue.
+S18	S18_061	Questionnaire	P10: To paint	çe dünîd le naw eksege?	ay pîyagêş ay kore reng key	This man is also painting this boy.
+S18	S18_062	Questionnaire	P10: To paint	çe dünîd le naw eksege?	yê mocessemêş ayres	There is also a statue here.
+S18	S18_063	Questionnaire	P10: To paint	çe dünîd le naw eksege?	ew pîyagêş iskeytsevarî key	That man is also skating.
+S18	S18_064	Questionnaire	P10: To paint	çe xakisserîye?	ew mucesseme’e kê reng key	That statue which he is painting.
+S18	S18_065	Questionnaire	P10: To paint	kî kurwasi sewz kirdîyuw werî?	ew kore kê reng kiřilîyaye	That boy which has been painted.
+S18	S18_066	Questionnaire	P11: To pull	çe dünîd le naw eksege?	ay kore maşînege kîşî weri tenab	This boy is pulling the toy truck with a rope.
+S18	S18_067	Questionnaire	P11: To pull	çe dünîd le naw eksege?	ayrêş yê maşînê, yê kamîyoni qirmize	Here also there is a toy truck, a red lorry.
+S18	S18_068	Questionnaire	P11: To pull	çe dünîd le naw eksege?	ay kore sevari sûrtme bîye	This boy has mounted on a sledge.
+S18	S18_069	Questionnaire	P11: To pull	çe dünîd le naw eksege?	ay yêkêş dîrî weri tenab ay kore kîşî	This one is also pulling this boy with a rope.
+S18	S18_070	Questionnaire	P11: To pull	çe dünîd le naw eksege?	ay korêş xoy sûrtmisevarî key	This boy is also sledging by his own.
+S18	S18_071	Questionnaire	P11: To pull	kî çermüg kirdîyuw werî?	ew kore kê dikîşîrîlî	That boy who is being pulled.
+S18	S18_072	Questionnaire	P11: To pull	çe kewe?	ew maşînege kê kîşîrîlî	That toy truck which is being pulled.
+S18	S18_073	Questionnaire	P12: To punch	çe dünîd le naw eksege?	ayre yê başga	Here a gym.
+S18	S18_074	Questionnaire	P12: To punch	çe dünîd le naw eksege?	ay pîyage weri moşt dey le rengê ay pîyage	This man is punching the face of this man.
+S18	S18_075	Questionnaire	P12: To punch	çe dünîd le naw eksege?	weri hem kuştî girin	They are wrestling with each other.
+S18	S18_076	Questionnaire	P12: To punch	çe dünîd le naw eksege?	ay pîyagêş we kîsebuksege moşt dey	This man is also punching the punching bag.
+S18	S18_077	Questionnaire	P12: To punch	çe dünîd le naw eksege?	yê danêş kîsebuksi abî ayres	There is also a blue punching bag here.
+S18	S18_078	Questionnaire	P12: To punch	çe dünîd le naw eksege?	dû dane pîyayêş weri hem kuştî girin	Two men are also wrestling with each other.
+S18	S18_079	Questionnaire	P12: To punch	çe narincîye?	ew kîsebuksege kê moşt diřilî	That punching bag which is being punched.
+S18	S18_080	Questionnaire	P12: To punch	kî keçele?	ew pîyage kê moşt diřilî	That man who is being punched.
+S18	S18_081	Questionnaire	P13: To push	çe dünîd le naw eksege?	ay dalike dîrî dutegey bani tab taw dey	This mother is swinging her daughter on the swing.
+S18	S18_082	Questionnaire	P13: To push	çe dünîd le naw eksege?	ay dutêş xoy taw dey	This girl is also swinging by her own.
+S18	S18_083	Questionnaire	P13: To push	çe dünîd le naw eksege?	ay jinêş kalisge dûwey	This woman is also taking a baby carriage.
+S18	S18_084	Questionnaire	P13: To push	çe dünîd le naw eksege?	ay yêkî jinêş kalisge diranî	This other woman is also riding a baby carriage.
+S18	S18_085	Questionnaire	P13: To push	kî rexti qirmizî kirdîyuw werî?	ew dute kê dalikî tawî dey	That girl whose mother is swinging her.
+S18	S18_086	Questionnaire	P13: To push	kî rexti qirmizî kirdîyuw werî?	ew dute kê hol dirilî	That girl who is being pushed.
+S18	S18_087	Questionnaire	P13: To push	çe çerxe sewz dîrî?	ew kaliske’e kê hol dirilîyaye	That baby carriage which has been pushed.
+S18	S18_088	Questionnaire	P14: To shoot	çe dünîd le naw eksege?	ay pîyage nişan girtîye weri tofeng we î nişanege şillîk key	This man has targeted (and) is shooting at this target board with a gun.
+S18	S18_089	Questionnaire	P14: To shoot	çe dünîd le naw eksege?	ay jinêş weri tofeng bi ay pîyage şillîk key	This woman is also shooting at this man with a gun.
+S18	S18_090	Questionnaire	P14: To shoot	çe dünîd le naw eksege?	ay pîyagêş ew teref dünî ve hey şillîk key	This man is watching the other side and is constantly shooting.
+S18	S18_091	Questionnaire	P14: To shoot	çe kewe newrasî sorxe?	ew nişane’e kê tîr dirilî	That target board which is being shot.
+S18	S18_092	Questionnaire	P14: To shoot	kî rexti sewz kirdîyuw werî?	ew pîyage kê tîr dirilî	That man who is being shot.
+S18	S18_093	Questionnaire	P15: To splash	çe dünîd le naw eksege?	ay pîyage le bani nerdiban nîştîye	This man has sat on a ladder.
+S18	S18_094	Questionnaire	P15: To splash	çe dünîd le naw eksege?	ay pîyagêş dûş gîrî	This man is also taking a shower.
+S18	S18_095	Questionnaire	P15: To splash	çe dünîd le naw eksege?	ay du ta dute banê ay kore aw pîşînin	These two girls are splashing water on this boy.
+S18	S18_096	Questionnaire	P15: To splash	çe dünîd le naw eksege?	ay du ta ordekêş nîyanin naw hozege	They have also put these two ducks in the pool.
+S18	S18_097	Questionnaire	P15: To splash	kî kurwas neyrî?	ew kore kê aw pîşînin banî	That boy who they are splashing water on him.
+S18	S18_098	Questionnaire	P15: To splash	çe sewze?	ew ordekege kê naw hoz aw pîşînin banî	That duck which they are splashing water on it in the pool.
+S18	S18_099	Questionnaire	P16: To spray	çe dünîd le naw eksege?	ayre ay kore nişane girtîye weri tofengi ab şillîk key we ewre	Here this boy has targeted (and) is shooting with a water gun at there.
+S18	S18_100	Questionnaire	P16: To spray	çe dünîd le naw eksege?	bane ew nişanege yê cûcig nîştîye	A chicken has sat on that target board.
+S18	S18_101	Questionnaire	P16: To spray	çe dünîd le naw eksege?	ay dutêş nişane negirtîye ve banê ay kore pîşîyaye	This girl has not targeted and it has been sprayed on this boy.
+S18	S18_102	Questionnaire	P16: To spray	çe dünîd le naw eksege?	ay pîyagêş dest dey, des dey terefi ew kore dey ûşî “he he he! ay kore xîs bîye”	This man also stretching his hand towards that boy says “he he he! this boy has become wet.”
+S18	S18_103	Questionnaire	P16: To spray	çe dünîd le naw eksege?	ay dutêş weri sê ta wadkonek ve yê awnebat dîrî dîyay nezdîk	This girl is also coming near with three balloons and a lollipop.
+S18	S18_104	Questionnaire	P16: To spray	kî kewşi kew kirdîyuw pay?	ew kore kê xîs bîye	That boy who has been wet.
+S18	S18_105	Questionnaire	P16: To spray	kî kewşi kew kirdîyuw pay?	ew kore kê aw pîşîyaye banî	That boy who water has been sprayed on him.
+S18	S18_106	Questionnaire	P16: To spray	quşege le bani çe nîştîye?	nişanege	The target board.
+S18	S18_107	Questionnaire	P16: To spray	quşege le bani çe nîştîye?	ew nişanege kê xîs bîye aw pîşîyaye banî	That target board which has been wet (and) water has been sprayed on it.
+S18	S18_108	Questionnaire	P17: To throw	çe dünîd le naw eksege?	ay pîyawge tûpege weri desî pert key eray ay pîyawge	This man is throwing the ball with his hand for this man.
+S18	S18_109	Questionnaire	P17: To throw	çe dünîd le naw eksege?	pîyawgêş xwazî tûpege bigîrî	The man also wants to catch the ball.
+S18	S18_110	Questionnaire	P17: To throw	çe dünîd le naw eksege?	ay pîyage weri ay pîyage kuştî gîrin	This man and this man are wrestling.
+S18	S18_111	Questionnaire	P17: To throw	çe dünîd le naw eksege?	ay pîyage pîyage girtîye ban bukutigey zemîn	This man has lifted up the man to beat him to the ground.
+S18	S18_112	Questionnaire	P17: To throw	çe sorxe?	ew tûpege kê pekiřilîyaye	That ball which has been thrown.
+S18	S18_113	Questionnaire	P17: To throw	kî rexte zerd kirdîyuw werî?	ew pîyawge kê pekiřilîyaye	That man who has been thrown.
+S18	S18_114	Questionnaire	P18: To tie	çe dünîd le naw eksege?	ay pîyawge kewşeganî dekirdîye	This man has taken off his shoes.
+S18	S18_115	Questionnaire	P18: To tie	çe dünîd le naw eksege?	ay pay xistîye we ay pay rûzname xwenî	He has crossed his legs (and) is reading a newspaper.
+S18	S18_116	Questionnaire	P18: To tie	çe dünîd le naw eksege?	ay pîyawgêş, ay pîyawgêş …	This man also, this man also …
+S18	S18_117	Questionnaire	P18: To tie	çe dünîd le naw eksege?	kore hatîye pîyawge bestîye	The boy has come (and) has fastened the man.
+S18	S18_118	Questionnaire	P18: To tie	çe dünîd le naw eksege?	giri daye ley weri tenab	He has tied him with a rope.
+S18	S18_119	Questionnaire	P18: To tie	çe dünîd le naw eksege?	ay korêş bendegan kefşanî westîye	This boy has also fastened his shoe laces.
+S18	S18_120	Questionnaire	P18: To tie	çe dünîd le naw eksege?	giri daye leyan	He has tied them.
+S18	S18_121	Questionnaire	P18: To tie	çe kewe?	ew kewşegan kê girilîyaye	That shoes which have been gotten.
+S18	S18_122	Questionnaire	P18: To tie	kî kurwasi qirmizî kirdîyuw werî?	ew pîyawge kê girilîyaye	That man who has been gotten.
+S18	S18_123	Questionnaire	P19: To touch	çe dünîd le naw eksege?	ay jine des kîşî bani kutegey ay pîyawge	This woman is touching the coat of this man.
+S18	S18_124	Questionnaire	P19: To touch	çe dünîd le naw eksege?	ay pîyawgêş nîştîye bani mublege ketaw xwenî	This man has also sat on the sofa (and) is reading a newspaper
+S18	S18_125	Questionnaire	P19: To touch	çe dünîd le naw eksege?	ay jinêş rûweye bani kampîyutiriyi xoy des kîşî ta kesîf no	This woman has gone (and) is touching her computer so it would not become dirty.
+S18	S18_126	Questionnaire	P19: To touch	kî rexti sîye kirdîyuw werî?	ew pîyawge kê des kîşîrîyaye	That man who has been touched.
+S18	S18_127	Questionnaire	P19: To touch	çe sewze?	ew kampîyutirege kê des kîşîrîyaye	That computer which has been touched.
+S18	S18_128	Questionnaire	P20: To wipe	çe dünîd le naw eksege?	ayre heyate	Here is a yard.
+S18	S18_129	Questionnaire	P20: To wipe	çe dünîd le naw eksege?	pîyawge dîrî pencirege desmal kîşî	The man is wiping the window.
+S18	S18_130	Questionnaire	P20: To wipe	çe dünîd le naw eksege?	ay jinêş dîrî êşkegani korey pak key	This woman is also wiping the tears of his son.
+S18	S18_131	Questionnaire	P20: To wipe	çe dünîd le naw eksege?	ay pîyawge’o kore dîrin tûpbazî ken	These man and boy are playing baseball.
+S18	S18_132	Questionnaire	P20: To wipe	çe kewe?	ew pencirege kê sirilîyaye	That window which has been wiped.
+S18	S18_133	Questionnaire	P20: To wipe	kî kurwasi çermüg kirdîyuw werî?	ew kore kê sirilîyaye eşki çewî	That boy whose tear of eye has been wiped.
+S18	S18_134	Questionnaire	P20: To wipe	kî kurwasi çermüg kirdîyuw werî?	ew kore kê eşkî sirilîyaye	That boy whose tear has been wiped.
+S18	S18_135	Story Narration			sedayi kelişîrege dîyay	The sound of a cock is coming.
+S18	S18_136	Story Narration			qûqûlîqûqûl key	It is crowing.
+S18	S18_137	Story Narration			yê pîyaw dîrî le direxti gulabî gulabî çînî	A man is picking pears from a pear tree.
+S18	S18_138	Story Narration			pîyawge dîyay xar	The man is coming down.
+S18	S18_139	Story Narration			yê gulabî kefî	A pear falls down.
+S18	S18_140	Story Narration			pîyawge nîzanî	(But) the man does not know.
+S18	S18_141	Story Narration			pîyawge dîyay gulabîyegan naw sebedege xalî key	The man is coming (to) empty the pears into the basket.
+S18	S18_142	Story Narration			le naw desmalege xalîyan key	(He) empties them from the handkerchief.
+S18	S18_143	Story Narration			baz xalî key	He empties again.
+S18	S18_144	Story Narration			xalî key	He empties.
+S18	S18_145	Story Narration			pîyawge gulabîye ki keftîye le zemîn elgîrî	The man picks up the pear which has fallen to the ground.
+S18	S18_146	Story Narration			desmalege ki le gerdenîye baz key gulabîyege temîz key	He unties the handkerchief which is around his neck (and) wipes the pear.
+S18	S18_147	Story Narration			desmalege ditekinî wesî le gerdenî	He shakes the handkerchief (then) fastens it around his neck.
+S18	S18_148	Story Narration			yê pîyawge yê bizin dîyarî	There is a man (who) is bringing a goat.
+S18	S18_149	Story Narration			bizinege we zûr kîşî kîşî ta gulabîyegan nexurî	He pulls the goat constantly in order not to eat the pears.
+S18	S18_150	Story Narration			ew pîyawgêş le nerdiban ban dorî	That man is also climbing up the ladder.
+S18	S18_151	Story Narration			dûwey ban	He is lifting up.
+S18	S18_152	Story Narration			ay pîyage bizinege hey kîşî kîşî	This man keeps pulling the goat.
+S18	S18_153	Story Narration			bi zûr dûweygey	He is taking it away by force.
+S18	S18_154	Story Narration			dûweygey	He is taking it away.
+S18	S18_155	Story Narration			pîyawge baz gulabî çînî	The man picks pears again.
+S18	S18_156	Story Narration			çînî	He picks.
+S18	S18_157	Story Narration			hey çînî	He keeps picking.
+S18	S18_158	Story Narration			diney naw desmalege	He is putting (them) in the handkerchief.
+S18	S18_159	Story Narration			yê kure weri duçerxegey yay semti sebedi gulabîyegan	There is a boy (who) comes towards the basket of the pears with his bike.
+S18	S18_160	Story Narration			dîyay	He is coming.
+S18	S18_161	Story Narration			dîyay	He is coming.
+S18	S18_162	Story Narration			dîyay	He is coming.
+S18	S18_163	Story Narration			kurege îst key	The boy stops.
+S18	S18_164	Story Narration			le duçerxege pîyade dû	He dismounts the bike.
+S18	S18_165	Story Narration			duçerxege nîya zemîn	He put the bike on the ground.
+S18	S18_166	Story Narration			rûwey semti sevedi gulabîyagan	He went towards the basket of the pears.
+S18	S18_167	Story Narration			dî pîyage hewasî nî	He saw (that) the man is not aware.
+S18	S18_168	Story Narration			kurege sebedege elgirt nîya zemîn	The boy lifted the basket (then) put it on the ground.
+S18	S18_169	Story Narration			duçerxege ser pa kird	He straightened the bike.
+S18	S18_170	Story Narration			xoy sevar bî	He mounted it himself.
+S18	S18_171	Story Narration			gulabîyegêş nîya bani duçerxege	He also put the pear on the bike.
+S18	S18_172	Story Narration			rûwey	He went.
+S18	S18_173	Story Narration			heriket ke!	Move on!
+S18	S18_174	Story Narration			heriket kird	He moved on.
+S18	S18_175	Story Narration			rûwey	He went.
+S18	S18_176	Story Narration			rûwey	He went.
+S18	S18_177	Story Narration			rûwey	He went.
+S18	S18_178	Story Narration			rûwey	He went.
+S18	S18_179	Story Narration			yê dute sewar duçerxegey bî daşt dîyat semti kurege	A girl (who) was on her bike was coming towards the boy.
+S18	S18_180	Story Narration			ewane weri hem xorden bi hem	They collided each other.
+S18	S18_181	Story Narration			[pesereg] kure [oftad] keft zemîn	The boy fell to the ground.
+S18	S18_182	Story Narration			cûrabêşo kişîd	He pulled down his socks.
+S18	S18_183	Story Narration			cûrawegey kîşîya [ban] xar	He pulled [up] down his sock.
+S18	S18_184	Story Narration			pay dî zexmî bîye	He saw (that) his leg has become wounded.
+S18	S18_185	Story Narration			pay tikan	He shook his leg.
+S18	S18_186	Story Narration			xoy tikan	He shook himself.
+S18	S18_187	Story Narration			sê dane piser ewre bîn	There were three boys there.
+S18	S18_188	Story Narration			hatin kumekî	They came to help him.
+S18	S18_189	Story Narration			gulabîyegan cem kirdin	They collected the pears.
+S18	S18_190	Story Narration			[pisere] kurege [ra bolen kirdin] elvirdin	They lifted up the boy.
+S18	S18_191	Story Narration			gulabîyegan [ra] rişanin naw sebedege	They poured the pears into the basket.
+S18	S18_192	Story Narration			nîyan naw sebedege	They put it in the basket.
+S18	S18_193	Story Narration			kurege rûwey	The boy went.
+S18	S18_194	Story Narration			sê dane kuregeyş rûweyn	Those three boys also went.
+S18	S18_195	Story Narration			kuregan rûweyn	They boys went.
+S18	S18_196	Story Narration			yêkî ez kuregan dî kulawi pisere oftadi	One of the boys saw (that) the boy’s hat has fallen down.
+S18	S18_197	Story Narration			sût zed	He whistled.
+S18	S18_198	Story Narration			kure keftîye	The boy has fallen down.
+S18	S18_199	Story Narration			sût da wut “kulawget keftîye”	(He) whistled (and) said “your hat has fallen down.”
+S18	S18_200	Story Narration			rûwey da wey	He went (and) gave it to him.
+S18	S18_201	Story Narration			kure kulawgey [ra gozaşt] nîya we serî	The boy put the hat on his head.
+S18	S18_202	Story Narration			ew kuregeyş sê dane gulabî elgirt avird teqsîm kird	That boy also took (and) three pears brought shared (and) them.
+S18	S18_203	Story Narration			rûweyn	They went.
+S18	S18_204	Story Narration			ewane gulabîyegan xwardin	They ate the pears.
+S18	S18_205	Story Narration			rûweyn	They went.
+S18	S18_206	Story Narration			pîyawge hat xar	The man came down.
+S18	S18_207	Story Narration			hat xar le nerdiwane	He came down the ladder.
+S18	S18_208	Story Narration			dî yêkî yê sebed nîye	He saw (that) one basket is not there.
+S18	S18_209	Story Narration			şimord	He counted.
+S18	S18_210	Story Narration			şimord	He counted.
+S18	S18_211	Story Narration			dî kuregan gulabî le desîyane	(He) saw (that) the boy have pear in their hand.
+S18	S18_212	Story Narration			wut “çe bîye!? çera gulabî desi în kura? çera gulabî desi kuregane!? pes sebedi gulabîyi men kû!?”	He said, “what has happened!? Why there is pears in hands of these boys!? So, where is my basket of pears!?

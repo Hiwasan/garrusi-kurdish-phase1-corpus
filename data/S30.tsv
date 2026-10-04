@@ -1,0 +1,290 @@
+speaker	utt_id	section	elicitation_item	prompt	garrusi	english
+S30	S30_001	Questionnaire	P1: To bury	çe dünîd le naw eksege?	pen nefer dünum weri yê seg	I see five persons with a dog.
+S30	S30_002	Questionnaire	P1: To bury	çe dünîd le naw eksege?	arê	Yes.
+S30	S30_003	Questionnaire	P1: To bury	çe dünîd le naw eksege?	ewe yê qutî çal key	He is buring a can.
+S30	S30_004	Questionnaire	P1: To bury	çe dünîd le naw eksege?	ewe xoy xoy çal kirdîye	He has buried himself by his own.
+S30	S30_005	Questionnaire	P1: To bury	çe dünîd le naw eksege?	ewe yê nefer çal kirdîye	He has buried a person.
+S30	S30_006	Questionnaire	P1: To bury	çe dünîd le naw eksege?	ewêş desteganî birdîyuw ban çit key	He has also lifted his hands (and) is doing something.
+S30	S30_007	Questionnaire	P1: To bury	çe dünîd le naw eksege?	ew se’egêş digefî	That dog is also barking.
+S30	S30_008	Questionnaire	P1: To bury	kî müy serî xakisserîye?	ew pîyage ki çal kiřilî müy serî xakisserîye	That man who is being buried his hair is gray.
+S30	S30_009	Questionnaire	P1: To bury	çe narincîye?	ew qutîyege ki çal kiřilî narincîye	That can which is being buried is orange.
+S30	S30_010	Questionnaire	P2: To carry	çe dünîd le naw eksege?	pen nefer dünum	I see five persons.
+S30	S30_011	Questionnaire	P2: To carry	çe dünîd le naw eksege?	yê qutî yêkî le desîye	There is a box in the hand of a person.
+S30	S30_012	Questionnaire	P2: To carry	çe dünîd le naw eksege?	çûwar dane qutîş lew las	There are also four boxes on that side.
+S30	S30_013	Questionnaire	P2: To carry	çe dünîd le naw eksege?	yê neferêş we lennîyewe dûwen	They are also carring a person [=a person is also being carried] with a hammock.
+S30	S30_014	Questionnaire	P2: To carry	çe dünîd le naw eksege?	ewêş lew la dîrî	He is also crying on that side.
+S30	S30_015	Questionnaire	P2: To carry	çe çermüge?	ew qutîyege ki dûweney çermüge	That box (which) they are carrying it [=is being carried] is white.
+S30	S30_016	Questionnaire	P2: To carry	kî kurwasi qirmizî kirdîyuw werî?	ew zařûge ki le naw lennîyeges kurwasi qirmiz le werîye	That child who is in the hammock is wearing a red shirt.
+S30	S30_017	Questionnaire	P2: To carry	kî kurwasi qirmizî kirdîyuw werî?	dûweney	They are carrying him.
+S30	S30_018	Questionnaire	P2: To carry	kî kurwasi qirmizî kirdîyuw werî?	ew zařûge ki dûweney kurwasi qirmiz le werîye naw lennîyeges	That child who they are carrying him is wearing a red shirt (and) is inside the hammock.
+S30	S30_019	Questionnaire	P3: To cut	çe dünîd le naw eksege?	naw eksege pen nefer şemşîrwazî ken	In the picture five persons are fencing.
+S30	S30_020	Questionnaire	P3: To cut	çe dünîd le naw eksege?	du nefer weri yêkdîrî şemşîrwazî ken	Two persons are fencing with each other.
+S30	S30_021	Questionnaire	P3: To cut	çe dünîd le naw eksege?	yê neferêş we şemşîrewe daye le qiçi yêkiley biřîye	A person has also hit the leg of one of them with a sword (and so) has cut it.
+S30	S30_022	Questionnaire	P3: To cut	çe dünîd le naw eksege?	yêkilêş we şemşîrewe daye çûwege biřîye	One of them has also hit the stick with a sword (and so) has cut it.
+S30	S30_023	Questionnaire	P3: To cut	kî kurwasi benawiş kirdîyuw werî?	ewe ki pay biřilîyaye kurwasi benawiş le werîye	That one whose leg has been cut is wearing purple.
+S30	S30_024	Questionnaire	P3: To cut	çe sewze berg neyrî?	ew çûwege ki biřilîyaye berganî rîşîyaye sewze	That stick which has been cut (and) its leaves have fallen is green.
+S30	S30_025	Questionnaire	P4: To hit	çe dünîd le naw eksege?	naw eksege çûwar nefer leyda wazî ken weri yêkdîrî	In the picture four persons are playing with each other on this side.
+S30	S30_026	Questionnaire	P4: To hit	çe dünîd le naw eksege?	tupwazî ken	They are playing with ball.
+S30	S30_027	Questionnaire	P4: To hit	çe dünîd le naw eksege?	yêkiley we çûwewe dey le tupege dořî	One of them is hitting the ball with a bat (and so) it is going.
+S30	S30_028	Questionnaire	P4: To hit	çe dünîd le naw eksege?	ewkilêş xwastîye bey le tupege daye le beçiki ew yê nefer	The other one also, he has wanted to hit the ball (but instead) he has hit that person’s head.
+S30	S30_029	Questionnaire	P4: To hit	çe dünîd le naw eksege?	ewêş, yê neferêş lew la nîştîye	That one also, that person has also sat on that side.
+S30	S30_030	Questionnaire	P4: To hit	çe çehri’îye?	ew tupege ki den ley çêri’îye	That ball which they are hitting it [=is being hit] is pink.
+S30	S30_031	Questionnaire	P4: To hit	kî rexti benawiş kirdîyuw werî?	ewe ki çûwewe dayin le, daye le beçikî ewe rexti benawiş le werîye	That one who they have hit on his head [=his head has been hit] (or) he has hit on his head is wearing a purple dress.
+S30	S30_032	Questionnaire	P4: To hit	kî rexti benawiş kirdîyuw werî?	ewe ki le beçikî…, dagin le beçikî	That one who they have hit on his head [=his head has been hit].
+S30	S30_033	Questionnaire	P5: To hold	çe dünîd le naw eksege?	le naw eksege çûwar nefer dünum	In the picture I see four people.
+S30	S30_034	Questionnaire	P5: To hold	çe dünîd le naw eksege?	yê jinî yê zařû’î le bawuşîye	A woman holds a child in her hug.
+S30	S30_035	Questionnaire	P5: To hold	çe dünîd le naw eksege?	yê zařû’î bessenî xwey	A child is eating an ice cream.
+S30	S30_036	Questionnaire	P5: To hold	çe dünîd le naw eksege?	nîştîye bessenî xwey	She has sat down (and) is eating an ice cream.
+S30	S30_037	Questionnaire	P5: To hold	çe dünîd le naw eksege?	ew jinêş yê küzey sewz le desîye	That woman also has a green clay jar in her hand.
+S30	S30_038	Questionnaire	P5: To hold	kî rexti çehri’î kirdîyuw werî?	ew zařû’ege ki le bawuş îvet kiřilîyaye rexti ceri’î le werîye	That child who has been held in hug is wearing a pink dress.
+S30	S30_039	Questionnaire	P5: To hold	çe sewze?	ew küzege sewze le bawuş îvet kiřilîyaye	That clay jar is green (which) has been held in hug.
+S30	S30_040	Questionnaire	P6: To hug	çe dünîd le naw eksege?	le naw eksege çûwar nefer dünum	In the picture I see four people.
+S30	S30_041	Questionnaire	P6: To hug	çe dünîd le naw eksege?	yê nefer yê xirsî girtîyuw bawuşî	A person has hugged a teddy bear.
+S30	S30_042	Questionnaire	P6: To hug	çe dünîd le naw eksege?	yê nefer le bani sendelîyege nîştîye kitab xwenî	A person has sat on the sofa (and) is reading a book.
+S30	S30_043	Questionnaire	P6: To hug	çe dünîd le naw eksege?	yê nefer, yê dutîş bawkî bawuş girdîye	A person, a girl has also hugged his father.
+S30	S30_044	Questionnaire	P6: To hug	çe dünîd le naw eksege?	yê xirsêş le bani sendelîyege nîştîye	A teddy bear has also sat on the chair.
+S30	S30_045	Questionnaire	P6: To hug	çe çermüge?	ew ew xirsege ki le bawuş gîrîlîyaye çermüge	That teddy bear which has been hugged is white.
+S30	S30_046	Questionnaire	P6: To hug	çe çermüge?	ew xirsege ki le bawuş îvet kirilîyaye çermüge	That teddy bear which has been held in hug is white.
+S30	S30_047	Questionnaire	P6: To hug	çe çermüge?	ew xirsege ki we bawuş girtiginey çermüge	That teddy bear which tjey have hugged it [=has been hugged] is white.
+S30	S30_048	Questionnaire	P6: To hug	kî kurwasi sewz kirdîyuw werî?	ew pîyage ki le bawuş îvet kirdigin libaseganî sewze	That man who they have held him [=has been held] in hug his clothes are green.
+S30	S30_049	Questionnaire	P6: To hug	kî kurwasi sewz kirdîyuw werî?	ewe ki rexti sewz kirdigine werî le bawuş, we bawuş girtiginey	That one who they have dressed him [=has been dressed] in green clothes they have hugged him [=has been hugged].
+S30	S30_050	Questionnaire	P6: To hug	kî kurwasi sewz kirdîyuw werî?	ew pîyage ki rexti sewz le werîye we bawuş gîrîlîyaye	That man who is wearing green clothes has been hugged.
+S30	S30_051	Questionnaire	P7: To kick	çe dünîd le naw eksege?	çûwar dane zařû leyda wazî ken	Four children are playing here.
+S30	S30_052	Questionnaire	P7: To kick	çe dünîd le naw eksege?	yêkiley we leqqi’o dey le dute	One of them is kicking that girl.
+S30	S30_053	Questionnaire	P7: To kick	çe dünîd le naw eksege?	yêkilêş we leqqi’o dey le tupege	One of them is also kicking that ball.
+S30	S30_054	Questionnaire	P7: To kick	çe dünîd le naw eksege?	ewkilêş tupege girtîyuw desî xwazî leqqi’o bey ley	The other one has also held the ball in her hand (and) wants to kick it.
+S30	S30_055	Questionnaire	P7: To kick	kî rexti kew kirdîyuw werî?	ew dute ki leqqi dirilî, leqqi’o den ley rexti kew kirdîye werî	That girl who is being kicked (or) they are kicking her has put on a blue dress.
+S30	S30_056	Questionnaire	P7: To kick	çe narincîye?	ew tupege narincîye we leqqi’o den ley	That ball is orange (which) they are kicking it [=is being kicked].
+S30	S30_057	Questionnaire	P8: To kiss	çe dünîd le naw eksege?	le naw eksege pen şêş neferin	In the picture there are five (or) six persons.
+S30	S30_058	Questionnaire	P8: To kiss	çe dünîd le naw eksege?	yê nefer camege girtîye we desî maçî key	A person has held the cup in her hand (and) is kissing it.
+S30	S30_059	Questionnaire	P8: To kiss	çe dünîd le naw eksege?	yê neferêş dute maç key	A person is also kissing the girl.
+S30	S30_060	Questionnaire	P8: To kiss	çe dünîd le naw eksege?	ewêş yê tupi çermüg girtîye we desî	That one has also held a white ball in her hand.
+S30	S30_061	Questionnaire	P8: To kiss	çe dünîd le naw eksege?	ew dûwanêş le des we bawuş wusîyagin temşa ken	Those two persons has also stood with their arms crossed (and) are looking.
+S30	S30_062	Questionnaire	P8: To kiss	çe zerde?	ew camege ki maç kirilî zerde	That cup which is being kissed is yellow.
+S30	S30_063	Questionnaire	P8: To kiss	kî müy serî sîyes?	ew dute ki maç kirilî tüki serî sîyes	That child who is being kissed her hair is black.
+S30	S30_064	Questionnaire	P9: To lift	çe dünîd le naw eksege?	çûwar nefer, sê nefer verziş ken	Four persons, three persons are exercising.
+S30	S30_065	Questionnaire	P9: To lift	çe dünîd le naw eksege?	yê nefer yê nefer elvirdîyuw bani serîyo xwazî bukutîgey zemîn	A person has lifted a person above his head and wants to beat him to the ground.
+S30	S30_066	Questionnaire	P9: To lift	çe dünîd le naw eksege?	yê neferêş desî elvirdîye verziş key	A person has also lifted his hand (and) is exercising.
+S30	S30_067	Questionnaire	P9: To lift	çe dünîd le naw eksege?	yêkilêş vezne elgîrîye bani serî	One of them is also lifting a weight above his head.
+S30	S30_068	Questionnaire	P9: To lift	kî keçele?	ewe ki elviřilîyaye we bani ser ewe keçele	That one who has been lifted above the head that one is bald.
+S30	S30_069	Questionnaire	P9: To lift	çe xakisserîye?	ewe ki, veznege ki elviřîye bani ser xakisserîye	That one which, the weight which he is lifting above the head is gray.
+S30	S30_070	Questionnaire	P9: To lift	çe xakisserîye?	ewe ki elviřilîyaye we bani ser xakisserîye	That one which has been lifted above the head is gray.
+S30	S30_071	Questionnaire	P10: To paint	çe dünîd le naw eksege?	naw eksege sê nefer dünum	In the picture I see three people.
+S30	S30_072	Questionnaire	P10: To paint	çe dünîd le naw eksege?	çûwar nefer dünum	I see four people.
+S30	S30_073	Questionnaire	P10: To paint	çe dünîd le naw eksege?	yêkiley mucessemege reng key	One of them is painting a statue.
+S30	S30_074	Questionnaire	P10: To paint	çe dünîd le naw eksege?	yêkilêş rengewe daye naw rengi dute	One of them has also painted the girl’s face with paint.
+S30	S30_075	Questionnaire	P10: To paint	çe dünîd le naw eksege?	ewkilêş nîştîye lewda xwazî sor buxwey bîyaye xwar	The other one has also sat there to slide (and) come down.
+S30	S30_076	Questionnaire	P10: To paint	çe dünîd le naw eksege?	yê mucessemêş ley la hes	There is also a statue on this side.
+S30	S30_077	Questionnaire	P10: To paint	çe xakisserîye?	ew mucesseme ki reng kirilî xakisserîye	That statue which is being painted is gray.
+S30	S30_078	Questionnaire	P10: To paint	kî kurwasi sewz kirdîyuw werî?	ew dute ki reng kirilî kurwasi sewz le werîye	That girl which is being painted is wearing a green shirt.
+S30	S30_079	Questionnaire	P11: To pull	çe dünîd le naw eksege?	naw eksege çûwar nefere	In the picture there are four persons.
+S30	S30_080	Questionnaire	P11: To pull	çe dünîd le naw eksege?	yê nefer maşinege dikîşî	A person is pulling the toy truck.
+S30	S30_081	Questionnaire	P11: To pull	çe dünîd le naw eksege?	sořî dey dikîşî dûwey	He is sliding, pulling, (and) taking it.
+S30	S30_082	Questionnaire	P11: To pull	çe dünîd le naw eksege?	yê neferêş zařû’ege le bani textege nîyaye sořî dey dûwey	A person also putting the child on the board is sliding him (and) taking him.
+S30	S30_083	Questionnaire	P11: To pull	çe dünîd le naw eksege?	yê neferêş lew da sor xwey dîyaye xwar	A person is also sliding on that side (and) is coming down.
+S30	S30_084	Questionnaire	P11: To pull	kî çermüg kirdîyuw werî?	ew dute ki le bani texdege dusořiney dûweney kurwasi çermüg le werîye	That girl who they are sliding him on the board (and) are taking him [=is being slid and taken] is wearing a white shirt.
+S30	S30_085	Questionnaire	P11: To pull	kî çermüg kirdîyuw werî?	ew dute ki dikîşin dûwen kurwasi çermüg le werîye	That girl who they are pulling and taking [=is being pulled and taken] is wearing a white shirt.
+S30	S30_086	Questionnaire	P11: To pull	kî çermüg kirdîyuw werî?	ewe ki dikîşîrîlî kurwasi çermüg le werîye	That one who is being pulled is wearing a white shirt.
+S30	S30_087	Questionnaire	P11: To pull	çe kewe?	ew maşinege ki dikîşîrîlî kewe	That toy truck which is being pulled.
+S30	S30_088	Questionnaire	P12: To punch	çe dünîd le naw eksege?	naw eksege du dane kîsebuks dünum pen nefer adem	In the picture I see two punching bags (and) five people.
+S30	S30_089	Questionnaire	P12: To punch	çe dünîd le naw eksege?	yêkiley we kulemuştewe dey le jîri çaneyi çenaki pîyage	One of them is punching the man under the chin.
+S30	S30_090	Questionnaire	P12: To punch	çe dünîd le naw eksege?	yêkiley we muştewe dey le kîsebuksege	One of them is punching the punching bag.
+S30	S30_091	Questionnaire	P12: To punch	çe dünîd le naw eksege?	ew du neferêş muştewe, kulemuştewe den le yêkdîrî	Those two persons are also punching each other.
+S30	S30_092	Questionnaire	P12: To punch	çe narincîye?	ew kîsebuksege ki muşt dirilî ley dirilî ley narincîye	That punching bag which is being punched is orange.
+S30	S30_093	Questionnaire	P12: To punch	kî keçele?	ewe ki kulemuştewe den le jîri çanikî keçele	That one who they are punching him [=is being punched] under the chin.
+S30	S30_094	Questionnaire	P13: To push	çe dünîd le naw eksege?	naw eksege çûwar nefer le parkin	In the picture there are four people in the park.
+S30	S30_095	Questionnaire	P13: To push	çe dünîd le naw eksege?	yê nefer yê zařû’î nîyaye bani tabege des ney ley	A person has put a child on the swing (and) is pushing him.
+S30	S30_096	Questionnaire	P13: To push	çe dünîd le naw eksege?	yê neferêş kalaskege des ney ley dûwey	A person is also pushing the baby carriage (and) is taking it.
+S30	S30_097	Questionnaire	P13: To push	çe dünîd le naw eksege?	ewkilêş yê kalaskey itê des ney ley yarîgey	The other one is also bringing another baby carriage (which) she is pushing.
+S30	S30_098	Questionnaire	P13: To push	çe dünîd le naw eksege?	yê dutîş lew la le bani tab nîştîye	A girl has also sat on a swing on that side.
+S30	S30_099	Questionnaire	P13: To push	kî rexti qirmizî kirdîyuw werî?	ew zařû’ege ki le bani tabe des nen ley rexte qirmiz le werîye	That child who is on the swing (and) they are pushing her [=is being pushed] is wearing a red shirt.
+S30	S30_100	Questionnaire	P13: To push	çe çerxi sewz dîrî?	ew kaleskege ki des nen ley çerxi sewz dîrî	That baby carriage which they are pushing it [=is being pushed] has green wheels.
+S30	S30_101	Questionnaire	P14: To shoot	çe dünîd le naw eksege?	leyda meydane tîre	Here is a shooting range.
+S30	S30_102	Questionnaire	P14: To shoot	çe dünîd le naw eksege?	çen nefer tîrennazî ken	Some people are shooting.
+S30	S30_103	Questionnaire	P14: To shoot	çe dünîd le naw eksege?	yê nefer nişane girtîye we sîblege	A person has targeted at the shooting board.
+S30	S30_104	Questionnaire	P14: To shoot	çe dünîd le naw eksege?	yê sîblîş ley la xalîye	A shooting board is also empty here.
+S30	S30_105	Questionnaire	P14: To shoot	çe dünîd le naw eksege?	ley la yê nefer tîrennazî kirdîye (tîr) daye le beçiki yarû	Here a person has shot (and) has shot the guy’s head.
+S30	S30_106	Questionnaire	P14: To shoot	çe dünîd le naw eksege?	tîrennazî kirdîye	He has shot.
+S30	S30_107	Questionnaire	P14: To shoot	çe dünîd le naw eksege?	ewkile dey le beçiki xoy üşî “ay way tîr xwardîye”	The other one is hitting himself on the head (and) says “Oh my God! he has got shot”.
+S30	S30_108	Questionnaire	P14: To shoot	çe dünîd le naw eksege?	îkilêş heftîr le desî tîrennazî key	This one having a revolver in his hand is also shooting.
+S30	S30_109	Questionnaire	P14: To shoot	çe dünîd le naw eksege?	yane we yêkdîrî tîr weşinin	These ones are shooting at each other.
+S30	S30_110	Questionnaire	P14: To shoot	çe dünîd le naw eksege?	we tîr weşanîye (we tîr) daye le beçiki yarû	He has shot (and so) he has shot the guy’s head.
+S30	S30_111	Questionnaire	P14: To shoot	çe dünîd le naw eksege?	ewkilêş tîr weşinî (tîr) daye le sîblage	The other one is also shooting (and so) he has shot at the target board.
+S30	S30_112	Questionnaire	P14: To shoot	çe kewe newrasî sorxe?	ewe ki tîr pekey we sîblege, sîblege xoy kewe newrasegey qirmize	That one who he is shooting at the target boatd, the target board itself is blue (but) its center is red [=the target board which is being shot by the man].
+S30	S30_113	Questionnaire	P14: To shoot	çe kewe newrasî sorxe?	ew sîblege kewe newrasegey qirmize tîr peken wey	That target board (which) they are shooting [=is being shot] is blue (but) its center is red.
+S30	S30_114	Questionnaire	P14: To shoot	çe kewe newrasî sorxe?	tîr dirilî wey	It is being shot.
+S30	S30_115	Questionnaire	P14: To shoot	kî rexti sewz kirdîyuw werî?	ewe ki tîr peken wey, tîrewe den ley kurwasi sewz le werîye	That one who they are shooting at him (or) they are firing at him [=is being shot or fired] is wearing a green shirt.
+S30	S30_116	Questionnaire	P15: To splash	çe dünîd le naw eksege?	aye yê gulumîge sê dane zařû le nawîye	This is a pool (where) three children are in it.
+S30	S30_117	Questionnaire	P15: To splash	çe dünîd le naw eksege?	aw pîşînine bani yêkdîrî	They are splashing water on each other.
+S30	S30_118	Questionnaire	P15: To splash	çe dünîd le naw eksege?	yê neferêş lew la dûş gîrî	A person is also taking a shower over there.
+S30	S30_119	Questionnaire	P15: To splash	çe dünîd le naw eksege?	ew qeriqnicadegêş lewda le bani çarpaye nîştîye temşa key	The lifeguard has also sat on a stool over there (and) is looking.
+S30	S30_120	Questionnaire	P15: To splash	kî kurwas neyrî?	ewe ki aw pîşîrîlîye banî kurwas neyrî	That one who water is being splashed on him is not wearing a shirt.
+S30	S30_121	Questionnaire	P15: To splash	çe sewze?	ew ordegege ki aw pîşîrîlîye banî sewze	That duck which water is being splashed on it is green.
+S30	S30_122	Questionnaire	P16: To spray	çe dünîd le naw eksege?	leyda aw pîşînine bani …	Here they are spraying water on …
+S30	S30_123	Questionnaire	P16: To spray	çe dünîd le naw eksege?	yêkiley aw pîşînîye bani sîblege	One of them is spraying water on the target board.
+S30	S30_124	Questionnaire	P16: To spray	çe dünîd le naw eksege?	yê bayequşî le banî nîştîye	A bird has sat on it.
+S30	S30_125	Questionnaire	P16: To spray	çe dünîd le naw eksege?	ewkilêş le püşti sîbleges yê aw pîşînî we püştî	The other one (who) is also behind the target board, she is spraying water on his back.
+S30	S30_126	Questionnaire	P16: To spray	çe dünîd le naw eksege?	püştî xîs bîye	His back has become wet.
+S30	S30_127	Questionnaire	P16: To spray	çe dünîd le naw eksege?	ewkilêş dikenî üşî “püştî xîs bîye”	The other one is also laughing (and) saying “his back has become wet”.
+S30	S30_128	Questionnaire	P16: To spray	çe dünîd le naw eksege?	ewêş pifillan le desîye ley ladaş yê mîjmîje le desî duxwey	She has also balloon in her hand (and) a lollipop too in her other hand (which) she is eating.
+S30	S30_129	Questionnaire	P16: To spray	kî kewşi kew kirdîyuw pay?	ew dute ki we püştî aw pîşîrîlî kewşi kew kirdîye pay	That child who water is being sprayed on her back has put on blue shoes.
+S30	S30_130	Questionnaire	P16: To spray	quşege le bani çe nîştîye?	ew bayequşege le bani sîblege nîştîye î pîyage aw pîşîye banî	That bird has sat on the target board (and) this man water is being sprayed on him.
+S30	S30_131	Questionnaire	P16: To spray	quşege le bani çe nîştîye?	ew bayeguşege le bani sîblege nîştîye	That bird has sat on the target board.
+S30	S30_132	Questionnaire	P16: To spray	quşege le bani çe nîştîye?	ew bayeguşege le bani sîblege nîştîye aw pîşîrîlîye banî	That bird (which) has sat on the target board water is being sprayed on it.
+S30	S30_133	Questionnaire	P17: To throw	çe dünîd le naw eksege?	naw eksege du nefer zûran gîrin	In the picture two persons are wrestling.
+S30	S30_134	Questionnaire	P17: To throw	çe dünîd le naw eksege?	yêkilêş dey le tupege	One of them is also hitting the ball.
+S30	S30_135	Questionnaire	P17: To throw	çe dünîd le naw eksege?	ewkilêş gard girdîye	The other one has also brought his guard up.
+S30	S30_136	Questionnaire	P17: To throw	çe sorxe?	ew tupege ki pekirilî sorxe	That ball which is being thrown is red.
+S30	S30_137	Questionnaire	P17: To throw	kî rexti zerd kirdîyuw werî?	ew pîyage ki pekirilîye zemîn rexti zerd le werîye	That man who is being thrown to the ground is wearing a yellow shirt.
+S30	S30_138	Questionnaire	P18: To tie	çe dünîd le naw eksege?	naw eksege çûwar nefer dünum	In the picture I see four people.
+S30	S30_139	Questionnaire	P18: To tie	çe dünîd le naw eksege?	yêkiley kewşeganî gîrye dey	One of them is tying his shoes.
+S30	S30_140	Questionnaire	P18: To tie	çe dünîd le naw eksege?	yêkilêş pa nîya’e ban pay rûzname xwenî	One one them also with his legs crossed is reading a newspaper.
+S30	S30_141	Questionnaire	P18: To tie	çe dünîd le naw eksege?	ewkilêş we tenafewe bestiginey dute gîrey dey	The other one also they have fastened him [=has been fastened] with a rope (and) they girl is tying him.
+S30	S30_142	Questionnaire	P18: To tie	çe kewe?	ew kewşege ki gîrey den kewe	That shoe which they are tying it [=is being tied] is blue.
+S30	S30_143	Questionnaire	P18: To tie	çe kewe?	ew kewşege gîrge dirilî kewe	That shoe (which) is being tied is blue.
+S30	S30_144	Questionnaire	P18: To tie	kî kurwasi qirmizî kirdîyuw werî?	ewe ki bestiginey le püşta gîrey den kurwasi qirmiz le werîye	That one who they have fastened him [=has been fastened] (and) they are tying him [=is being tied] from behind is wearing a red sweater.
+S30	S30_145	Questionnaire	P18: To tie	kî kurwasi qirmizî kirdîyuw werî?	ew pîyage ki gîrye dirilî kurwasi qirmiz le werîye	That man who is being tied is wearing a red sweater.
+S30	S30_146	Questionnaire	P18: To tie	kî kurwasi qirmizî kirdîyuw werî?	ew pîyage ki gîrye dirilî kurwasi qirmiz le werîye	That man who is being tied is wearing a red sweater.
+S30	S30_147	Questionnaire	P19: To touch	çe dünîd le naw eksege?	naw eksege çûwar nefere	In the picture there are four people.
+S30	S30_148	Questionnaire	P19: To touch	çe dünîd le naw eksege?	yê jinî des kîşî naw sînigi pîyage	A woman is touching the man’s chest.
+S30	S30_149	Questionnaire	P19: To touch	çe dünîd le naw eksege?	yê pîyagêş le bani sendelî nîştîye kitab xwenî	A man has also sat on the sofa (and) is reading a book.
+S30	S30_150	Questionnaire	P19: To touch	çe dünîd le naw eksege?	yê jinîş lew lada kamputirege, des deye kamputire	Also, a woman over there is touching the computer.
+S30	S30_151	Questionnaire	P19: To touch	kî rexti sîye kirdîyuw werî?	ew pîyage ki des kîşîrîlîye naw sînigî kuti sîye le werîye	That man whose chest is being touched is wearing a black coat.
+S30	S30_152	Questionnaire	P19: To touch	çe sewze?	ew kamputirege ki des kîşîrîlîye banî sewze	That computer which is being touched is green.
+S30	S30_153	Questionnaire	P20: To wipe	çe dünîd le naw eksege?	ew kuře şüşege pîkew key	That boy is wiping the window glass.
+S30	S30_154	Questionnaire	P20: To wipe	çe dünîd le naw eksege?	î dutêş çewi zařû’ege disiřî	This girl is also wiping the child’s eye.
+S30	S30_155	Questionnaire	P20: To wipe	çe dünîd le naw eksege?	ewkilêş xwazî texti’o bey le tupege	The other one also wants to hit the ball with a bat.
+S30	S30_156	Questionnaire	P20: To wipe	çe kewe?	ew şüşege ki pîkew kirilî ya disiřilî kewe	That window glass which is being wiped or cleaned is blue.
+S30	S30_157	Questionnaire	P20: To wipe	kî kurwasi çermüg kirdîyuw werî?	ew dute ki çewî disiřin ya ki disiřilî ya ki pîkew ken kurwasi çermüg le werîye	That girl who they are wiping (or) cleaning her eye, or whose eye is being wiped is wearing a white shirt.
+S30	S30_158	Story Narration			yê kelişîrî naw daregan bango dey	A cock is crewing in the trees.
+S30	S30_159	Story Narration			ew pîyagêş rûweye bani darege gulabî diçînî	That man has also gone on the tree (and) is picking the pears.
+S30	S30_160	Story Narration			gulabî kenî	He is picking pears.
+S30	S30_161	Story Narration			yêkî yêkî xeygey naw dwanî	He puts them one by one into his apron.
+S30	S30_162	Story Narration			beden yêkiley kefte xwar	Then, one of them fell down.
+S30	S30_163	Story Narration			ewêş dîyaye xwar	He also comes down.
+S30	S30_164	Story Narration			gulabîyegan rişinî naw dwanî	He spills the pears into his apron.
+S30	S30_165	Story Narration			le naw dwanî keye naw sebetege	(He) puts (them) from his apron into the basket.
+S30	S30_166	Story Narration			sebetege piř key	(He) fills the basket.
+S30	S30_167	Story Narration			yêkilêş keftîye we xwar	One of them has fallen down.
+S30	S30_168	Story Narration			beden, filen hey yêkî yêkî gulabîyegan naw dwanî elgîrî neye naw sebetege	Then, now (he) is just picking up the pears in his apron (and) putting (them) in the basket.
+S30	S30_169	Story Narration			yêkiley …	One of them …
+S30	S30_170	Story Narration			xemo dû’o xwar yêkiley le bani zemîn keftîvî ewêş yarî disiřî	He bents downward (and) brings one of them (which) had fallen on the ground (and) wipes it.
+S30	S30_171	Story Narration			pakî key	He wipes it.
+S30	S30_172	Story Narration			şalege le gerdinî awkirdîye pîkew key	(While) (he) has opened the scarf from his neck, (he) wipes.
+S30	S30_173	Story Narration			neye naw sebetege	He puts it in the basket.
+S30	S30_174	Story Narration			şalege dubare beste gerdinî	He again fastened the scarf around his neck.
+S30	S30_175	Story Narration			yê pîyagîş lew lada bizine dikîşî dîyarî	A man is also pulling (and) bringing the goat from that side.
+S30	S30_176	Story Narration			yêş libaseganî tekan dubare rûweye ban	This man also shook his clothes and went up again.
+S30	S30_177	Story Narration			rûweye bani nerdiwanege dořîye ban darege	(While) he has gone to the top of the ladder, he is going to the top of the tree.
+S30	S30_178	Story Narration			ewêş, yarûş bizinege dikîşî dîyay	He is also, the guy is also pulling the goat (and) is coming.
+S30	S30_179	Story Narration			bizinege nîyay we zûrewe dikîşîgey	The goat does not come (but) he is pulling it by force.
+S30	S30_180	Story Narration			hey dikîşî dûwey	He is constantly pulling and taking away.
+S30	S30_181	Story Narration			bizine nüxwazî biçî we zûrewe dikîşî dûwey	The goat doesn’t want to go (but) he is pulling (and) carrying (it) by force.
+S30	S30_182	Story Narration			erî he dikîşî dûweygey	Yes, he is still pulling (and) taking it away.
+S30	S30_183	Story Narration			we zûrewêş dûweygey	He is taking it away by force.
+S30	S30_184	Story Narration			erî	Yes.
+S30	S30_185	Story Narration			ew pîyagêş dubare yay gulabîyegan dikenî xeye naw dwanî	That man comes again (to) pick the pears (and) put them in his apron.
+S30	S30_186	Story Narration			a! yêkî yêkî dikenî xeye naw dwanî	See! He is picking them one by one (and) is putting them in his apron.
+S30	S30_187	Story Narration			beden yê duçerxisewar lew lada dîyay	Then, a cyclist comes from that side.
+S30	S30_188	Story Narration			rikab dey dîyay	He pedals and comes.
+S30	S30_189	Story Narration			we terefi …, we pay darege dîyay	Towards …, he comes to the tree.
+S30	S30_190	Story Narration			we terefi gulabîyegan dîyay	He comes towards the pears.
+S30	S30_191	Story Narration			hey rikabzenan dîyay	He still comes pedaling.
+S30	S30_192	Story Narration			dîyay	He comes.
+S30	S30_193	Story Narration			hey dîyay	He keeps coming.
+S30	S30_194	Story Narration			hey dîyay	He keeps coming.
+S30	S30_195	Story Narration			geyî we pay darege	He reached the tree.
+S30	S30_196	Story Narration			temşay ban (kird)	He look(ed) up.
+S30	S30_197	Story Narration			temşay gulabîyegan kird dî leyda gulabîye	(He) looked (at) the pears (and) saw (that) there are pears here.
+S30	S30_198	Story Narration			î la ew lay temşay kird dî filen ki ew pîyage xeber neyrî ye xware	(He) looked (at) his this side (and) that side (and) saw that that man is not still aware (that) he is down.
+S30	S30_199	Story Narration			çerxegey xefane zemîn	He put his bike down on the ground.
+S30	S30_200	Story Narration			gulabîyegan, yêkiley le sebetegan elgirt	(He) picked up the pears, one of the baskets.
+S30	S30_201	Story Narration			temşa key bizanî yarû nünî	(He) looks (to) know (if) the guy does not see.
+S30	S30_202	Story Narration			erî ewe hewasî nîye	Yes, he is not aware.
+S30	S30_203	Story Narration			du desî sebetege elgirt hawirdey pay çerxege	(He) picked up the basket (with) two hands (and) brought it to the bike.
+S30	S30_204	Story Narration			çerxege elvirt	He lifted the bike.
+S30	S30_205	Story Narration			xoyêş sûwar dû	He himself mounts.
+S30	S30_206	Story Narration			xwazî sûwar bû	He wants to mount.
+S30	S30_207	Story Narration			aha!	Aha!
+S30	S30_208	Story Narration			xoy sûwar bî	He mounted.
+S30	S30_209	Story Narration			sebetege nîya we bani çerxege	He put the basket on the bike.
+S30	S30_210	Story Narration			aha!	Aha!
+S30	S30_211	Story Narration			xwazî heriket bikey biçîyo	He wants to move (and) go.
+S30	S30_212	Story Narration			rikab dey dořî	He pedals and goes.
+S30	S30_213	Story Narration			rûwey	He went.
+S30	S30_214	Story Narration			î pîyagêş le bani darege hêç xeber neyrî	This man also on top of the tree doesn’t have the news at all.
+S30	S30_215	Story Narration			nezanist	He did not understand.
+S30	S30_216	Story Narration			nedîgey	He did not see him.
+S30	S30_217	Story Narration			ewe he gulabîyegan filen dikenî	He is just picking the pears now.
+S30	S30_218	Story Narration			yêş ki rikab dey dořî	This one is also just pedaling (and) going.
+S30	S30_219	Story Narration			he dořî	He keeps going.
+S30	S30_220	Story Narration			sebedegêş piře piře	His basket is also completely full.
+S30	S30_221	Story Narration			he dořî	He keeps going.
+S30	S30_222	Story Narration			yê defi weri yê dutîgo berxurd kene yêkdîrî	Suddenly with a girl they collide with each other.
+S30	S30_223	Story Narration			den le yêkdîrî	They hit each other.
+S30	S30_224	Story Narration			dute dîyay	The girl comes.
+S30	S30_225	Story Narration			elan den le yêkdîrî	Now they hit each other.
+S30	S30_226	Story Narration			elan den le yêk	Now they hit each other.
+S30	S30_227	Story Narration			a!	See!
+S30	S30_228	Story Narration			kuře kelawegey keft	The boy’s hat fell.
+S30	S30_229	Story Narration			gulabîyeganî rîşîya	His pears were spilled.
+S30	S30_230	Story Narration			yê kuçikîş werdemî bî da le kuçikege kefte xwar	He hit the stone, a stone (which) was also in front of him, (and so) fell down.
+S30	S30_231	Story Narration			gulabîyegan pexş bî	The pears became spread.
+S30	S30_232	Story Narration			libasegey, şelwaregey pîkew kird	He wiped his shirt, his trousers.
+S30	S30_233	Story Narration			cûrawegey kîşîya we xwar	He pulled his sock down.
+S30	S30_234	Story Narration			pay zexmî bîye	His leg has become wounded.
+S30	S30_235	Story Narration			pay tekan	He shook his leg.
+S30	S30_236	Story Narration			sê dane zařûş lew la wazî ken	Three children are also playing at that side.
+S30	S30_237	Story Narration			yêkiley tupwazî key	One of them plays (with a) ball.
+S30	S30_238	Story Narration			hatin kumekî kirdin	They came (and) helped him.
+S30	S30_239	Story Narration			gulabîyeganî elçinin	(They) collect up his pears.
+S30	S30_240	Story Narration			gulabîyegan kirdin naw çitege	They put the pears into that thing.
+S30	S30_241	Story Narration			ewkilêş feqet we tupi xoy wazî key	That one also only plays with his own ball.
+S30	S30_242	Story Narration			gulabîyegan rişanin naw sebetege	They put the pears in the basket.
+S30	S30_243	Story Narration			yê çerxegey elvirt	This boy lifted his bike.
+S30	S30_244	Story Narration			erî ewane kumekî kirdin	Yes, they helped him.
+S30	S30_245	Story Narration			ew lay sebetegey piř bî	That side of his basket became full.
+S30	S30_246	Story Narration			ewkilêş weri tupi xoyewe wazî key	That one also plays with his own ball.
+S30	S30_247	Story Narration			sebetegey nîya we ban çitege	He put basket on that thing.
+S30	S30_248	Story Narration			yêkiley kefte xwar	One of them fell down.
+S30	S30_249	Story Narration			a! ew kuřêş ew kuçikege pert kirde ew la ki ye diray	See! That boy also threw that stone aside so that this (one) (could) come out.
+S30	S30_250	Story Narration			ew sê nefere weri ew la rûweyn	Those three persons went to that side.
+S30	S30_251	Story Narration			yêş we duçerxege’o weri î la dořî	This one is also going to this side with a bike.
+S30	S30_252	Story Narration			erî duware sûwar dû dořî	Yes, he again mounts the bike (and) goes.
+S30	S30_253	Story Narration			ewe ki he yê seri tupwazî key	He is just playing with a ball constantly.
+S30	S30_254	Story Narration			tupege we texte’o wazî key	(He) plays (with) the ball with a racket.
+S30	S30_255	Story Narration			aha! kelawi …	Aha! The hat of …
+S30	S30_256	Story Narration			aha!	Aha!
+S30	S30_257	Story Narration			xemo bî kelawi kuře elgirt	He bent (and) took the boy’s hat.
+S30	S30_258	Story Narration			şût da wut “kelawet keftîye”	(He) whistled (and) said “your hat has fallen.”
+S30	S30_259	Story Narration			kelawegey bird eray yarû	He took his hat for the guy.
+S30	S30_260	Story Narration			xob!	Ok!
+S30	S30_261	Story Narration			ewe wûsîyaye	He has stood.
+S30	S30_262	Story Narration			aha! kelawege da we yarû	Aha! He gave the hat to the guy.
+S30	S30_263	Story Narration			ewêş sê dane wey gulabî da	He also gave him three pears.
+S30	S30_264	Story Narration			ewe kelawegey xoy nîya we serî	He put his hat on his head.
+S30	S30_265	Story Narration			yê sê dane gulabî girt le desî hawird	This (one) took three pears in his hand (and) brought them.
+S30	S30_266	Story Narration			neferî yê dane gulabî (hawird)	He (brought) one pear for each person.
+S30	S30_267	Story Narration			neferî yê gulabî da we ewane neferî yê dane	He gave a pear to each of them, each person one pear.
+S30	S30_268	Story Narration			pîkew kirdin we libaseganî ewane	(They) wiped them with his shirts.
+S30	S30_269	Story Narration			gaz keno xwen	(They) bite and eat.
+S30	S30_270	Story Narration			xirim xirim xwen	They are eating gnawingly.
+S30	S30_271	Story Narration			kuře dubare çûwege girte desî, textege, tupwazî bikey	The boy again took the stick, the racket, in his hand (to) play (with the) ball.
+S30	S30_272	Story Narration			ew pîyage filen xeber neyrî	That man still doesn’t have the news.
+S30	S30_273	Story Narration			le nerdiwan dîyaye xwar	He comes down from the ladder.
+S30	S30_274	Story Narration			xwazî …	He wants to …
+S30	S30_275	Story Narration			gulabîyegan dûware hawirdîye biřişinî naw sebetegan	He has brought the pears again to pour them into the baskets.
+S30	S30_276	Story Narration			te’ecub kird	He got surprised.
+S30	S30_277	Story Narration			wut “pes ley da sê dane sebed bî! era elan du danes!?”	He said (to himself) “so there were three baskets here! Why are there two now?”
+S30	S30_278	Story Narration			sebetegan şumarî	He counts the baskets.
+S30	S30_279	Story Narration			dünî yêkiley nîye	He sees (that) one of them is not there.
+S30	S30_280	Story Narration			beden dünî sê dane zařû lew lada dîyan velî gulabîş le desîyan xweno dîyan!	Later, he sees (that) three children come from the other side, but they eat pears in their hands and come!
+S30	S30_281	Story Narration			te’ecub key	He gets surprised.
+S30	S30_282	Story Narration			we ewane şek key	He doubts them
+S30	S30_283	Story Narration			üşî “ewane birdigin nebirdigin!?”	He says (to himself) “have they stolen (or) not!?”
+S30	S30_284	Story Narration			ewane red dû’in	They pass.
+S30	S30_285	Story Narration			red bîn rûweyn	They passed (and) went.
+S30	S30_286	Story Narration			yê temşay ewane key yê sere	This man is still looking at them.
+S30	S30_287	Story Narration			ewe tupwazî key	He is playing with the ball.
+S30	S30_288	Story Narration			filen he wucî bîxîyal dořî	He is just going carelessly like this for now.
+S30	S30_289	Story Narration			ewe rûwey	He went.

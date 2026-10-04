@@ -1,0 +1,41 @@
+﻿cff-version: 1.2.0
+message: "If you use this corpus, please cite it as below."
+title: "Garrusi Kurdish Phase 1 Corpus"
+abstract: >-
+  A corpus of Garrusi Kurdish (Southern Kurdish) comprising 30 speakers
+  and 8,866 transcribed and translated utterances. The corpus consists of
+  elicited questionnaire responses and narrative retellings. Each speaker
+  is provided as a separate UTF-8 tab-separated file with the Garrusi
+  transcript and English translation.
+version: "1.0.0"
+date-released: "2026-10-03"
+license: CC-BY-4.0
+type: dataset
+
+authors:
+  - family-names: "Asadpour"
+    given-names: "Hiwa"
+    orcid: "https://orcid.org/0000-0002-7074-2435"
+    affiliation: "Goethe University Frankfurt"
+  - family-names: "Zarei"
+    given-names: "Masoumeh"
+    orcid: "https://orcid.org/0000-0003-4388-6203"
+    affiliation: "University of Konstanz"
+
+contact:
+  - family-names: "Asadpour"
+    given-names: "Hiwa"
+    email: "asadpourhiwa@gmail.com"
+
+keywords:
+  - Kurdish
+  - Southern Kurdish
+  - Garrusi
+  - corpus
+  - language documentation
+  - Iranian languages
+  - linguistics
+
+repository-code: "https://github.com/Hiwasan/garrusi-kurdish-phase1-corpus"
+
+doi: "10.5281/zenodo.23121203"

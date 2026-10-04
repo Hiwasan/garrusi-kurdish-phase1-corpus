@@ -1,0 +1,216 @@
+speaker	utt_id	section	elicitation_item	prompt	garrusi	english
+S23	S23_001	Questionnaire	P1: To bury	çe dünîd le naw eksege?	yê zařû’e yê dane pîyage çal kirdîye	There is a child (who) has buried someone (who) is a man.
+S23	S23_002	Questionnaire	P1: To bury	çe dünîd le naw eksege?	yê nefer hwar kîşî	A man is screaming.
+S23	S23_003	Questionnaire	P1: To bury	çe dünîd le naw eksege?	se’ege digefî	The dog is barking.
+S23	S23_004	Questionnaire	P1: To bury	çe dünîd le naw eksege?	yê neferêş xoy çal kirdîye	A person has also buried himself.
+S23	S23_005	Questionnaire	P1: To bury	çe dünîd le naw eksege?	yê neferêş yê qutî’î çal key	A person is also burying a can.
+S23	S23_006	Questionnaire	P1: To bury	kî müy serî xakisserîye?	ew pîya’e ki çal bîye	That man who has been buried.
+S23	S23_007	Questionnaire	P1: To bury	kî müy serî xakisserîye?	ew pîya’e ki çal kiřîlîyaye	That man who has been buried.
+S23	S23_008	Questionnaire	P1: To bury	çe narincîye?	ew qutîyege ki çal kiřîlîyaye	That can which has been buried.
+S23	S23_009	Questionnaire	P2: To carry	çe dünîd le naw eksege?	yê pîyagî ki yê cebi çermû dûwey	A man who is carrying a white box.
+S23	S23_010	Questionnaire	P2: To carry	çe dünîd le naw eksege?	du neferin yê dane zařû dûwen	There are two persons (who) are carrying a child.
+S23	S23_011	Questionnaire	P2: To carry	çe dünîd le naw eksege?	yê neferêş ki xwardîye zemîn zexmî bîye	A person has also fallen down (and so) has become wounded.
+S23	S23_012	Questionnaire	P2: To carry	çe çermüge?	ew cebege ki pîyage wey	That box which the man is carrying.
+S23	S23_013	Questionnaire	P2: To carry	çe çermüge?	cebege ki weney	The box which they are carrying.
+S23	S23_014	Questionnaire	P2: To carry	kî kurwasi qirmizî kirdîyuw werî?	ew zařû’e ki weney	That child who they are carrying him.
+S23	S23_015	Questionnaire	P3: To cut	çe dünîd le naw eksege?	yê nefer daye le pay yê nefer biřîye	A person has hit the leg of a person (and so) has cut it.
+S23	S23_016	Questionnaire	P3: To cut	çe dünîd le naw eksege?	yê nefer daye le yê dane çûwe ewe biřîye	A person has hit a stick (which) there is (and so) has cut it.
+S23	S23_017	Questionnaire	P3: To cut	çe dünîd le naw eksege?	du neferêş weri yêko dwa ken	Two persons are also fighting with each other.
+S23	S23_018	Questionnaire	P3: To cut	kî kurwasi benawiş kirdîyuw werî?	ewe ki pay biřilîyaye	That one whose leg has been cut.
+S23	S23_019	Questionnaire	P3: To cut	çe sewze berg neyrî?	ew çûwege biřilîyaye?	Is it that stick (which) has been cut?
+S23	S23_020	Questionnaire	P4: To hit	çe dünîd le naw eksege?	yê nefer dey le tupege	A person is hitting the ball.
+S23	S23_021	Questionnaire	P4: To hit	çe dünîd le naw eksege?	yê nefer xway tupege bigîrî velî dey le seri ewe ki nîştîye	A person wants to catch the ball but (instead) hits the head of that one who has sat down.
+S23	S23_022	Questionnaire	P4: To hit	çe çehri’îye?	tupege	The ball.
+S23	S23_023	Questionnaire	P4: To hit	çe çehri’îye?	ewe ki xway bey ley	That one which he wants to hit it.
+S23	S23_024	Questionnaire	P4: To hit	çe çehri’îye?	ew tupege ki den ley çêri’îye	That ball which they are hitting it [=is being hit] is pink.
+S23	S23_025	Questionnaire	P4: To hit	kî rexti benawiş kirdîyuw werî?	ewe ki tupege xwey we serî	That one who the ball is getting hit on his head.
+S23	S23_026	Questionnaire	P4: To hit	kî rexti benawiş kirdîyuw werî?	ewe ki da’in le serî	That one who they have hit him [=is being hit].
+S23	S23_027	Questionnaire	P5: To hold	çe dünîd le naw eksege?	yê zařû’e ki bestenî xwey	There is a child who is eating an ice cream.
+S23	S23_028	Questionnaire	P5: To hold	çe dünîd le naw eksege?	yê zařû’e ki nîştîye	There is a child who has sat down.
+S23	S23_029	Questionnaire	P5: To hold	çe dünîd le naw eksege?	yê jine ki kûze girtîye desî	There is a woman who has held a clay jar.
+S23	S23_030	Questionnaire	P5: To hold	çe dünîd le naw eksege?	yê zařû’e ki le bawuşi dalikîye	There is a child who is in her mother’s hug.
+S23	S23_031	Questionnaire	P5: To hold	kî rexti çehri’î kirdîyuw werî?	ew zařû’ege ki bawuş girîlîyaye	That child who has been hugged.
+S23	S23_032	Questionnaire	P5: To hold	kî rexti çehri’î kirdîyuw werî?	ew zařû’ege ki le bawuşî îvetî kirdîye	That child who she has held her in her hug.
+S23	S23_033	Questionnaire	P5: To hold	kî rexti çehri’î kirdîyuw werî?	le bawuş girîlîyaye	She has been hugged.
+S23	S23_034	Questionnaire	P5: To hold	kî rexti çehri’î kirdîyuw werî?	ewe ki le bawuş îvet girîlîyaye	That one who has been held in hug.
+S23	S23_035	Questionnaire	P5: To hold	çe sewze?	ew kûze’e ki le bawuş girîlîyaye, le bawuş girtîyiney	That clay jar which has been hugged (or) they have hugged it.
+S23	S23_036	Questionnaire	P6: To hug	çe dünîd le naw eksege?	î zařû’ege yê dane xirs girtîye bawuşî	This child has hugged a teddy bear.
+S23	S23_037	Questionnaire	P6: To hug	çe dünîd le naw eksege?	yê nefer kitab xwenî	A person is reading a book.
+S23	S23_038	Questionnaire	P6: To hug	çe dünîd le naw eksege?	yê neferêş ki bawkî girtîye bawuşî	A person has also hugged her father
+S23	S23_039	Questionnaire	P6: To hug	çe dünîd le naw eksege?	yê dane xirsîş lewre nîştîye	A teddy bear has also sat over there.
+S23	S23_040	Questionnaire	P6: To hug	çe çermüge?	ew xirsege ki bawuş girîlîyaye?	Is it that bear which has been hugged?
+S23	S23_041	Questionnaire	P6: To hug	kî kurwasi sewz kirdîyuw werî?	ewe ki bawuş girdîye	That one who she has hugged.
+S23	S23_042	Questionnaire	P6: To hug	kî kurwasi sewz kirdîyuw werî?	ewe ki bawuş girîlîyaye	That one who has been hugged.
+S23	S23_043	Questionnaire	P7: To kick	çe dünîd le naw eksege?	yê nefer we leqqi’o dey le ewkile	A person is kicking another one.
+S23	S23_044	Questionnaire	P7: To kick	çe dünîd le naw eksege?	yê nefer we leqqi’o xway bey le tupege	A person wants to kick the ball.
+S23	S23_045	Questionnaire	P7: To kick	çe dünîd le naw eksege?	yêkîş tupege girtîye xway we leqqi’o bey ley	Someone has also held the ball (and) wants to kick it.
+S23	S23_046	Questionnaire	P7: To kick	kî rexti kew kirdîyuw werî?	ewe ki we leqqi’o den ley	That one who they are kicking her [=is being kicked].
+S23	S23_047	Questionnaire	P7: To kick	kî rexti kew kirdîyuw werî?	ewe ki leqqe diřilî wey	That one who is being kicked.
+S23	S23_048	Questionnaire	P7: To kick	çe narincîye?	ew tupege ki we leqqi’o diřilî wey	That ball which is being kicked.
+S23	S23_049	Questionnaire	P7: To kick	çe narincîye?	ewe ki we leqqi’o den ley	That one which they are kicking it [=is being kicked].
+S23	S23_050	Questionnaire	P7: To kick	çe narincîye?	ewe ki we leqqi’o diřilî wey	That one which is being kicked.
+S23	S23_051	Questionnaire	P8: To kiss	çe dünîd le naw eksege?	yê nefer camege maç key	A person is kissing the cup.
+S23	S23_052	Questionnaire	P8: To kiss	çe dünîd le naw eksege?	yê nefer lew bane cam girtîye	There is a person up there (who) has gotten a cup.
+S23	S23_053	Questionnaire	P8: To kiss	çe dünîd le naw eksege?	leyrêş ki çûwar neferin	Here there are also four persons.
+S23	S23_054	Questionnaire	P8: To kiss	çe dünîd le naw eksege?	we ewe ki xwa’in cam ben maçî key	She is kissing that one who they want to give a cup [=is to be given a cup].
+S23	S23_055	Questionnaire	P8: To kiss	çe zerde?	ewe ki, came’e ki maçî ken?	Is that one which, the cup which they are kissing [=is being kissed]?
+S23	S23_056	Questionnaire	P8: To kiss	çe zerde?	ew came’e ki maç kirilî	That cup which is being kissed.
+S23	S23_057	Questionnaire	P8: To kiss	kî müy serî sîyes?	ew kesî ki cam xway bigîrî?	Is that person who wants to get a cup?
+S23	S23_058	Questionnaire	P8: To kiss	kî müy serî sîyes?	ewe ki maç kirilî	That one who is being kissed.
+S23	S23_059	Questionnaire	P9: To lift	çe dünîd le naw eksege?	yê nefer yê nefertê elgirtîye ban serî	A person ha lifted another person above his head.
+S23	S23_060	Questionnaire	P9: To lift	çe dünîd le naw eksege?	yê nefer veznege elgirtîye	A person has lifted the weight.
+S23	S23_061	Questionnaire	P9: To lift	çe dünîd le naw eksege?	yê neferêş verziş key	A person is also exercising.
+S23	S23_062	Questionnaire	P9: To lift	kî keçele?	ewe ki elvirilîyaye?	Is it that one who has been lifted?
+S23	S23_063	Questionnaire	P9: To lift	çe xakisserîye?	ewe ki elgirtîye	That one which he has lifted.
+S23	S23_064	Questionnaire	P9: To lift	çe xakisserîye?	ewe ki elvirilîyaye	That one which has been lifted.
+S23	S23_065	Questionnaire	P10: To paint	çe dünîd le naw eksege?	yê mucessemeyi kewe yê nefer zerdî key	There is a gray statue (which) a person is painting it yellow.
+S23	S23_066	Questionnaire	P10: To paint	çe dünîd le naw eksege?	yê nefer dem çewi zařû’ege zerd key	A person is painting the child’s mouth and eye in yellow.
+S23	S23_067	Questionnaire	P10: To paint	çe dünîd le naw eksege?	yê nefer iskeyt sewar bîye	A person has mounted a skate.
+S23	S23_068	Questionnaire	P10: To paint	çe dünîd le naw eksege?	yê mucessemêş lewres	There is also statue over there.
+S23	S23_069	Questionnaire	P10: To paint	çe xakisserîye?	mucesseme’e ki rengî ken ya reng dirilî	The statue which they are painting it or is being painted.
+S23	S23_070	Questionnaire	P10: To paint	kî kurwasi sewz kirdîyuw werî?	ewe ki reng dirilî	That one who is being painted.
+S23	S23_071	Questionnaire	P11: To pull	çe dünîd le naw eksege?	yê zařû’e soř xwey yay xwar	There is a child (who) is sliding (and) coming down.
+S23	S23_072	Questionnaire	P11: To pull	çe dünîd le naw eksege?	yêkî kîşîgey	Someone is pulling him.
+S23	S23_073	Questionnaire	P11: To pull	çe dünîd le naw eksege?	yêkî yê maşîn kîşî	Someone is pulling a toy truck.
+S23	S23_074	Questionnaire	P11: To pull	çe dünîd le naw eksege?	yê maşînêş lewre wûsîyaye	A toy truck has also stood over there.
+S23	S23_075	Questionnaire	P11: To pull	kî çermüg kirdîyuw werî?	ewe ki kîşiney kîşîrîlîyaye	That one who they are pulling him [=is being pulled] (or) has been pulled.
+S23	S23_076	Questionnaire	P11: To pull	çe kewe?	maşînege ki kîşiney kîşîrîlîyaye	The toy truck which they are pulling it [=is being pulled] (or) has been pulled.
+S23	S23_077	Questionnaire	P12: To punch	çe dünîd le naw eksege?	yê nefer we muşto daye naw řengi ewkile	A person has punched the other one’s face.
+S23	S23_078	Questionnaire	P12: To punch	çe dünîd le naw eksege?	yêkî we muşto dey le kîsebuksege	someone is punching the punching bag.
+S23	S23_079	Questionnaire	P12: To punch	çe dünîd le naw eksege?	du nefer den le yêkdîrî	Two persons are punching each other.
+S23	S23_080	Questionnaire	P12: To punch	çe narincîye?	ewe ki muşt dirilî wey	That one which is being punched.
+S23	S23_081	Questionnaire	P12: To punch	kî keçele?	ewe ki muşt dirilî wey	That one who is being punched.
+S23	S23_082	Questionnaire	P13: To push	çe dünîd le naw eksege?	yê nefer zařû’egey hol dey	A person is pushing her child.
+S23	S23_083	Questionnaire	P13: To push	çe dünîd le naw eksege?	yê nefer zařû’egey kaliksi’o wey	A person is carrying her child with a baby carriage.
+S23	S23_084	Questionnaire	P13: To push	çe dünîd le naw eksege?	yê zařû lewre nîştîye	A child has sat over there.
+S23	S23_085	Questionnaire	P13: To push	çe dünîd le naw eksege?	ye nefer, yê zařû’îş tabbazî key	Someeone, a child is also swinging.
+S23	S23_086	Questionnaire	P13: To push	kî rexti qirmizî kirdîyuw werî?	ewe ki hol dirilî	That one who is being pushed.
+S23	S23_087	Questionnaire	P13: To push	çe çerxi sewz dîrî?	ewe ki hol dirilî	That one which is being pushed.
+S23	S23_088	Questionnaire	P14: To shoot	çe dünîd le naw eksege?	yê nefer tîr kutî we kelley ye	A person is shooting at this one’s head.
+S23	S23_089	Questionnaire	P14: To shoot	çe dünîd le naw eksege?	yê neferêş tîrendazî key we hedef	A person is also shooting at a target.
+S23	S23_090	Questionnaire	P14: To shoot	çe dünîd le naw eksege?	yê neferêş serî (tîr) kutaye	A person also, he has shot at his head.
+S23	S23_091	Questionnaire	P14: To shoot	çe kewe nawrasî sorxe?	ewe ki tîr kuturilî wey	That one which has been shot.
+S23	S23_092	Questionnaire	P14: To shoot	kî rexti sewz kirdîyuw werî?	ewe ki tîr kuturilî wey	That one who has been shot.
+S23	S23_093	Questionnaire	P15: To splash	çe dünîd le naw eksege?	yê nefer dûş gîrî	A person is taking a shower.
+S23	S23_094	Questionnaire	P15: To splash	çe dünîd le naw eksege?	yê qerîqnicat lewre nîştîye	A lifeguard has sat there.
+S23	S23_095	Questionnaire	P15: To splash	çe dünîd le naw eksege?	du neferêş aw pîşînin bani yê nefer	Two persons are also splashing water on a person.
+S23	S23_096	Questionnaire	P15: To splash	kî kurwas neyrî?	ewe ki aw pîşîrîlî wey	That one who water is being splashed on him.
+S23	S23_097	Questionnaire	P15: To splash	çe sewze?	ewe ki aw pîşîrîlî wey	That one which water is being splashed on it.
+S23	S23_098	Questionnaire	P16: To spray	çe dünîd le naw eksege?	yê nefer aw pîşînî bani hedef	A person is spraying water on the target.
+S23	S23_099	Questionnaire	P16: To spray	çe dünîd le naw eksege?	yê nefer aw pîşînî bani ewkile	A person is spraying water on the other one.
+S23	S23_100	Questionnaire	P16: To spray	çe dünîd le naw eksege?	yê nefer dikenî	A person is laughing.
+S23	S23_101	Questionnaire	P16: To spray	çe dünîd le naw eksege?	yê neferêş çen dane badkunek girtîye desî	A person has also held some balloons in her hand.
+S23	S23_102	Questionnaire	P16: To spray	kî kewşi kew kirdîyuw pay?	ewe ki aw pîşîrîlî banî	That one who water is being sprayed on him.
+S23	S23_103	Questionnaire	P16: To spray	quşege le bani çe nîştîye?	ewe ki aw pîşîrîlî banî	That one which water is being sprayed on it.
+S23	S23_104	Questionnaire	P17: To throw	çe dünîd le naw eksege?	yê nefer yê tup pekey ewkile bigîrîgey	A person is throwing a ball so that the other person catches it.
+S23	S23_105	Questionnaire	P17: To throw	çe dünîd le naw eksege?	ye neferêş ewkile kutî zemîn	A person is also beating the other person to the ground.
+S23	S23_106	Questionnaire	P17: To throw	çe sorxe?	ew tupege ki pekirîlî	That ball which is being thrown.
+S23	S23_107	Questionnaire	P17: To throw	kî rexti zerd kirdîyuw werî?	ewe ki kuturîlî	That one who is being beaten.
+S23	S23_108	Questionnaire	P17: To throw	kî rexti zerd kirdîyuw werî?	ewe ki pekirîlî	That one who is being thrown.
+S23	S23_109	Questionnaire	P18: To tie	çe dünîd le naw eksege?	yê zařû’e kewşeganî wesî gîrge dey	There is a child (who) is fastening (and) tying his shoes.
+S23	S23_110	Questionnaire	P18: To tie	çe dünîd le naw eksege?	yê nefer rûzname xwenî	A person is reading a newspaper.
+S23	S23_111	Questionnaire	P18: To tie	çe dünîd le naw eksege?	yêkîş yê nefertê wesî gîrge dey	Someone is also fastening (and) tying another person.
+S23	S23_112	Questionnaire	P18: To tie	çe kewe?	kewşeganî ki gîrge dey gîrge dirilîyaye	The shoes which he is tying (or) have tied.
+S23	S23_113	Questionnaire	P18: To tie	kî kurwasi qirmizî kirdîyuw werî?	ewe ki wesirilîyaye gîrge dirilîyaye	That one who has been fastened (and) tied.
+S23	S23_114	Questionnaire	P19: To touch	çe dünîd le naw eksege?	yê nefer we yê nefertê des dey	A person is touching another person.
+S23	S23_115	Questionnaire	P19: To touch	çe dünîd le naw eksege?	ewkile kitab xwenî	The other one is reading a book.
+S23	S23_116	Questionnaire	P19: To touch	çe dünîd le naw eksege?	we kamputire des kîşîrîlî	The computer is being touched.
+S23	S23_117	Questionnaire	P19: To touch	kî rexti sîye kirdîyuw werî?	ewe ki des kîşîrîlî wey	That one who is being touched.
+S23	S23_118	Questionnaire	P19: To touch	çe sewze?	ewe ki des kîşîrîlî wey	That one which is being touched.
+S23	S23_119	Questionnaire	P20: To wipe	çe dünîd le naw eksege?	yê nefer şîşege pîkew key	A person is wiping the window glass.
+S23	S23_120	Questionnaire	P20: To wipe	çe dünîd le naw eksege?	yê nefer lüti zařû’ege disiřî	A person is wiping the child’s nose.
+S23	S23_121	Questionnaire	P20: To wipe	çe dünîd le naw eksege?	du neferêş tupbazî ken	Two persons are also playing baseball.
+S23	S23_122	Questionnaire	P20: To wipe	çe kewe?	pencirege ki pîkew kirîlî disiřilî	The window which is being wiped (or) cleaned.
+S23	S23_123	Questionnaire	P20: To wipe	kî kurwasi çermüg kirdîyuw werî?	ewe ki lütî disiřilî lütî pîkew kirîlî	That one whose nose is being wiped (or) cleaned.
+S23	S23_124	Story Narration			kelişîrege bango dey	The cock is crowing.
+S23	S23_125	Story Narration			pîyage gulabî dikenî	The man is picking pears.
+S23	S23_126	Story Narration			le nerdiwane’o dîyaye xwar	He is coming down from the ladder.
+S23	S23_127	Story Narration			yêkiley le desî kefî	One of them falls down from his hand.
+S23	S23_128	Story Narration			le nerdiwane’o hate xwar	He came down from the ladder.
+S23	S23_129	Story Narration			gulabîyegan kirdîye naw dwanî	He has put the pears in his apron.
+S23	S23_130	Story Narration			xalîyan key naw sebedege	He empties them into the basket.
+S23	S23_131	Story Narration			gîştî diçînî naw sebedege	He is laying all of them in the basket.
+S23	S23_132	Story Narration			gîştî xalî kird	(He) emptied all of them.
+S23	S23_133	Story Narration			rûwey ew yê danêş elgirt hawird	(He) also went (and) brought that one.
+S23	S23_134	Story Narration			dengi pez dîyay	The sound of a sheep is coming.
+S23	S23_135	Story Narration			we desmalo disiřîgeyan gulabîyegan	He is wiping the pears with a handkerchief.
+S23	S23_136	Story Narration			temîzî kird	He wiped it.
+S23	S23_137	Story Narration			nîyagey naw sebedege	He put it into the basket.
+S23	S23_138	Story Narration			desmale west dori gerdinî	He tied the handkerchief around his neck.
+S23	S23_139	Story Narration			sebedege …	The basket …
+S23	S23_140	Story Narration			xoy elisîya	(He) himself stood up.
+S23	S23_141	Story Narration			şelwaregey temîs kird	He wiped his pants.
+S23	S23_142	Story Narration			libasegey qeşeng tekan	He shook his clothes completely.
+S23	S23_143	Story Narration			dûware řûwey bani nerdiwanege	He went up the ladder again.
+S23	S23_144	Story Narration			yê neferêş yê dane pez girtîye dîyarî	A person has also got a sheep (and) is bringing it.
+S23	S23_145	Story Narration			dikîşîgey	He is pulling it.
+S23	S23_146	Story Narration			birdey	He took it away.
+S23	S23_147	Story Narration			he we şüni xoy dikîşî weygey	He keeps dragging it after himself.
+S23	S23_148	Story Narration			yê dûware gulabî dikenî	He is picking pears again.
+S23	S23_149	Story Narration			yê nefer we duçerxi’o dořî	A person is going on a bike.
+S23	S23_150	Story Narration			zařû’e	It is a child.
+S23	S23_151	Story Narration			we duçerxi’o dîyay lay aye ki gulabî dikenî	He is coming on a bike to this man who is picking pears.
+S23	S23_152	Story Narration			rikab dey	He pedals.
+S23	S23_153	Story Narration			geyî lay	He reached him.
+S23	S23_154	Story Narration			wûsîya	He stopped.
+S23	S23_155	Story Narration			nîyagey ewre duçerxegey	He put his bike there.
+S23	S23_156	Story Narration			xway le yê cî îvet bikey	(He) wants to stop in a place.
+S23	S23_157	Story Narration			wirlada xefaney	He laid his bike on one side.
+S23	S23_158	Story Narration			yê gulabî elgirt	He took a pear.
+S23	S23_159	Story Narration			ne, sebedege elgirt	No, he put the basket.
+S23	S23_160	Story Narration			yarû hewasî nebî	The guy was not aware.
+S23	S23_161	Story Narration			duçerxegey dûware sewar bî	He mounted his bike again.
+S23	S23_162	Story Narration			sebedi gulabîyegêş nîya bawuşî le nüway duçerxegey	(He) also put the basket of the pears (in) his arms in front of his bike.
+S23	S23_163	Story Narration			řikab da řûwey	He pedaled (and) went.
+S23	S23_164	Story Narration			yarûş hêş nezanist we xoy	The guy also did not understand at all.
+S23	S23_165	Story Narration			he řikab deyo dořî	He is just pedaling and going.
+S23	S23_166	Story Narration			pîç der pîçe	It (The path) is winding.
+S23	S23_167	Story Narration			gulabîyeganî xway biřişî	His pears are going to be spilled.
+S23	S23_168	Story Narration			yê duçerxisevartê le rûbirûy dîyay	Another cyclist is coming in front of him.
+S23	S23_169	Story Narration			xwan ben le yêkdîrî	They want to hit each other.
+S23	S23_170	Story Narration			le benîyo řed bî kilawegey keft	He passed by her (and so) his hat fell off.
+S23	S23_171	Story Narration			ewêş da le kuçikege	He also hit the stone.
+S23	S23_172	Story Narration			gulabîyeganîş rîşîya	His pears were also spilled.
+S23	S23_173	Story Narration			yarû xwarde zemînîş	The guy fell to the ground also.
+S23	S23_174	Story Narration			şelwaregey pak key	He wipes his pants.
+S23	S23_175	Story Narration			pay fik kem zexmdar bîye timşa key	He looks at his leg (which) I think has become wounded.
+S23	S23_176	Story Narration			sê nefer hatine lay	Three people came to him.
+S23	S23_177	Story Narration			hatine kumekî	They came to help him.
+S23	S23_178	Story Narration			sebedege elgirt	He took the basket.
+S23	S23_179	Story Narration			gulabîyegan cem ken	They collect the pears.
+S23	S23_180	Story Narration			yê kumek kird	(He) helped this (one).
+S23	S23_181	Story Narration			libaseganî tekinî	He is shaking his [=the boy’s] clothes.
+S23	S23_182	Story Narration			ewkilêş hat	The other one also came.
+S23	S23_183	Story Narration			gulabîyeganî cem ken	They are picking his pears.
+S23	S23_184	Story Narration			duçerxegey elgirtin	They lifted his bike.
+S23	S23_185	Story Narration			gulabîyegan cem ken	They pick the pears.
+S23	S23_186	Story Narration			ewe we çûwege’o tinîs wazî key	He plays tennis with the racket.
+S23	S23_187	Story Narration			gulabîyegan dûware kirdin naw sebed	They put the pears again in the basket
+S23	S23_188	Story Narration			nîyaney ban duçerxege	They put it on the bike.
+S23	S23_189	Story Narration			kuçikegêş fiře da wew la	(He) threw the stone also to that side.
+S23	S23_190	Story Narration			dûware xway bikefîye řîye	(He) wants fall into the road again.
+S23	S23_191	Story Narration			sê neferegêş rûweyn	Those three people also left.
+S23	S23_192	Story Narration			yêş pîyadewe girtîye duçerxege wey	This boy also has taken his bicycle and is taking it on foot.
+S23	S23_193	Story Narration			yê çitî le zemîn dî	He saw something on the ground.
+S23	S23_194	Story Narration			kelawegeye mînîyaye cîye	(It) is his hat (which) has been left behind.
+S23	S23_195	Story Narration			şüşteg dey eray	(He) whistles to him.
+S23	S23_196	Story Narration			gilew xward	He turned.
+S23	S23_197	Story Narration			rûwey kelawegey bey wey	He went (to) give him his hat.
+S23	S23_198	Story Narration			ewêş wey gulabî da fik kem	I think he also gave him a pear.
+S23	S23_199	Story Narration			gulabî wey da	He gave him a pear.
+S23	S23_200	Story Narration			kelawegey nîya serî	(He) put his hat (on) his head.
+S23	S23_201	Story Narration			girt le lay duçerxegeyo	He grabbed his bike.
+S23	S23_202	Story Narration			dořî	He is going.
+S23	S23_203	Story Narration			yêş dûware gilew xward	He also returned.
+S23	S23_204	Story Narration			gilew xward lay ay du neferege	(He) returned to these two persons.
+S23	S23_205	Story Narration			hat ki biçin?	Is he coming to go together?
+S23	S23_206	Story Narration			gulabî weyan da we her kanîyan yêkî yê dane	He gave a pear to each of them.
+S23	S23_207	Story Narration			xweno	They are eating.
+S23	S23_208	Story Narration			keftîyin řîye	(They) have fallen (into) the road.
+S23	S23_209	Story Narration			dořin	They are going.
+S23	S23_210	Story Narration			pîyage le nerdiwanege hate xwar	The man came down le ladder.
+S23	S23_211	Story Narration			hat dî yê dane sebedeganî nîye	He came (and) saw (that) one of his baskets is not there.
+S23	S23_212	Story Narration			timşay wey la wew la key bizanî le kûres kî birdîyegey	(He) looks at this side (and) at that side (to) know where it is (and) who has taken it.
+S23	S23_213	Story Narration			ew sê nefere hatine lay	Those three people came to him.
+S23	S23_214	Story Narration			gulabî le desîyane xwen le nüway çewî	(They) have pears in their hands (as they) eat in front of him.
+S23	S23_215	Story Narration			yêş mînîyaye ki çe bikey çe büşî	This (one) has also been left (stranded) to do what (and) to say what.

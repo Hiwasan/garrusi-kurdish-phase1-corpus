@@ -1,0 +1,409 @@
+speaker	utt_id	section	elicitation_item	prompt	garrusi	english
+S12	S12_001	Questionnaire	P1: To bury	çe dünîd le naw eksege?	yê merdî leyre qutîyege çal key	A man is burying the can here.
+S12	S12_002	Questionnaire	P1: To bury	çe dünîd le naw eksege?	yê merdîş ki leyre xoy xoy çal key	A man is also burying himself here.
+S12	S12_003	Questionnaire	P1: To bury	çe dünîd le naw eksege?	ey se’egêş digefî	This dog is also barking.
+S12	S12_004	Questionnaire	P1: To bury	çe dünîd le naw eksege?	ey merdegêş “dad ey fergad! î merdege xwazin çal biken”	This man also (says) “oh my God! they want to bury this man” [=this man is to be buried].
+S12	S12_005	Questionnaire	P1: To bury	çe dünîd le naw eksege?	erî “dad bîdad! î merdege xwazin çal biken”	Yes, “oh my God! they want to bury this man [=this man is to be buried]”.
+S12	S12_006	Questionnaire	P1: To bury	çe dünîd le naw eksege?	î pîyage xwazin çal biken	They want to bury this man [=this man is to be buried].
+S12	S12_007	Questionnaire	P1: To bury	kî müy serî xakisserîye?	ew kesî ki xoy xoy çal key	That person who is burying himself.
+S12	S12_008	Questionnaire	P1: To bury	kî müy serî xakisserîye?	ew kesî ki çal kiřîlî müy serî xakisserîye	That person who is being buried his hair is gray.
+S12	S12_009	Questionnaire	P1: To bury	çe narincîye?	qutîyege narincîye	The can is orange.
+S12	S12_010	Questionnaire	P1: To bury	çe narincîye?	we çal nîrîyaye bi xatiri ewe çal bîye	It has been put into the pit because of that it has been buried.
+S12	S12_011	Questionnaire	P1: To bury	çe narincîye?	we xatiri ewe	Because of that.
+S12	S12_012	Questionnaire	P1: To bury	çe narincîye?	ew qutîyege ki çal kîrîyaye narincîye	That can which has been buried is orange.
+S12	S12_013	Questionnaire	P2: To carry	çe dünîd le naw eksege?	yê dane pîya dîrî yê dane cewe dûwey	A man is carrying a box.
+S12	S12_014	Questionnaire	P2: To carry	çe dünîd le naw eksege?	du danêş zařû dîrî lendîyege mesen hemahengî ken bûweney we ênê bazî, we ênvani bazî, we ênvani awucûrî	Two children are also seemingly arranging to carry the hammock for playing or something like this.
+S12	S12_015	Questionnaire	P2: To carry	çe dünîd le naw eksege?	du neferî kumek kirdigine yêkdîrî dîrin dûweney	They have helped each other (and) are carrying it.
+S12	S12_016	Questionnaire	P2: To carry	çe dünîd le naw eksege?	zařû’îş le nawî hes	There is also a child in it.
+S12	S12_017	Questionnaire	P2: To carry	çe dünîd le naw eksege?	în cûrî	In this wey.
+S12	S12_018	Questionnaire	P2: To carry	çe dünîd le naw eksege?	ewêş, zařû’ege nîzanim dad dey! dîgîrî!	That one also, the child, I don’t know if he is shouting or crying!
+S12	S12_019	Questionnaire	P2: To carry	çe dünîd le naw eksege?	erî	Yes.
+S12	S12_020	Questionnaire	P2: To carry	çe dünîd le naw eksege?	ew zařû’egêş ki dîgîrî	That child is also crying.
+S12	S12_021	Questionnaire	P2: To carry	çe dünîd le naw eksege?	erî dîrî	Yes, he is crying.
+S12	S12_022	Questionnaire	P2: To carry	çe çermüge?	nîzam cebegeges çermüge!	I don’t know if it is the box (which) is white!
+S12	S12_023	Questionnaire	P2: To carry	çe çermüge?	nîzanim!	I don’t know!
+S12	S12_024	Questionnaire	P2: To carry	çe çermüge?	pûsegey řûweye çermüg bîye?	Has its surface peeled off (and so) it has become white?
+S12	S12_025	Questionnaire	P2: To carry	çe çermüge?	erî yê dîrî dûweygey da!	Yes, this one is carrying it of course!
+S12	S12_026	Questionnaire	P2: To carry	çe çermüge?	erî ew cebege ki dûweney çermüge	Yes, that box which they are carrying it [=is being carried] is white.
+S12	S12_027	Questionnaire	P2: To carry	kî kurwasi qirmizî kirdîyuw werî?	mardages kurwasegey …	It is the man (who) …
+S12	S12_028	Questionnaire	P2: To carry	kî kurwasi qirmizî kirdîyuw werî?	ne, ew beçegey naw lennîyeges kurwasi qirmizî kirdîyuw werî	No, it is the child in the hammock (who) has put on a red shirt.
+S12	S12_029	Questionnaire	P2: To carry	kî kurwasi qirmizî kirdîyuw werî?	dûweney da	They are carrying him of course.
+S12	S12_030	Questionnaire	P2: To carry	kî kurwasi qirmizî kirdîyuw werî?	dûweney	They are carrying him.
+S12	S12_031	Questionnaire	P2: To carry	kî kurwasi qirmizî kirdîyuw werî?	dîrin dûweney	They are carrying him.
+S12	S12_032	Questionnaire	P2: To carry	kî kurwasi qirmizî kirdîyuw werî?	kumegi yêkdîrî kirdigin dûweney	They have helped each other (and so) they are carring him.
+S12	S12_033	Questionnaire	P2: To carry	kî kurwasi qirmizî kirdîyuw werî?	ew zařû’ege ki dîrin dûweney kurwasi qirmizî kirdigine werî	That child who are carrying him they have dressed him [=he has been dressed] in a red shirt.
+S12	S12_034	Questionnaire	P3: To cut	çe dünîd le naw eksege?	penc dane pîyaw dünum	I see five men.
+S12	S12_035	Questionnaire	P3: To cut	çe dünîd le naw eksege?	penc dane pîyaw dünum	I see five men.
+S12	S12_036	Questionnaire	P3: To cut	çe dünîd le naw eksege?	pîyagan yêkiley daye le qeçi pîyagan yêkiley biřîye	One of the men has hit on the leg of one of the men (and so) has cut it.
+S12	S12_037	Questionnaire	P3: To cut	çe dünîd le naw eksege?	dûwanêş dîrin kumek ken çûwege duwuřin	Two of them are also helping each other (and) cutting the stick.
+S12	S12_038	Questionnaire	P3: To cut	çe dünîd le naw eksege?	yêkilêş xo kumegi ewane key ki çûwege kîşî we düwa	One of them who pulls the stick backward helps them.
+S12	S12_039	Questionnaire	P3: To cut	kî kurwasi benawiş kirdîyuw werî?	ew wesetinîyege da!	That on in the middle of course!
+S12	S12_040	Questionnaire	P3: To cut	kî kurwasi benawiş kirdîyuw werî?	pay biřîyaye da!	His leg has been cut of course!
+S12	S12_041	Questionnaire	P3: To cut	kî kurwasi benawiş kirdîyuw werî?	manendî kî libasi bîmarisan manende ewe kirdîyuw werî	As if it is like hospital clothes (which) he has put on.
+S12	S12_042	Questionnaire	P3: To cut	kî kurwasi benawiş kirdîyuw werî?	ew pîyage ki pay biřîyaye kurwasî yasîye	That man whose leg has been cut his dress is purple.
+S12	S12_043	Questionnaire	P3: To cut	kî kurwasi benawiş kirdîyuw werî?	rengi yasîye kirdîyuw werî	It is the purple color (which) he has put on.
+S12	S12_044	Questionnaire	P3: To cut	kî kurwasi benawiş kirdîyuw werî?	erî	Yes.
+S12	S12_045	Questionnaire	P3: To cut	çe sewze berg neyrî?	nîzanim çûwe!	I don’t know if it is a stick!
+S12	S12_046	Questionnaire	P3: To cut	çe sewze berg neyrî?	çûwe mislin ki	It seems that it is a stick.
+S12	S12_047	Questionnaire	P3: To cut	çe sewze berg neyrî?	beli çûwî ki sewzo bû sewz dû da!	Yes, a stick which should be green becomes green of course!
+S12	S12_048	Questionnaire	P3: To cut	çe sewze berg neyrî?	biřîyaye da!	It has been cut of course!
+S12	S12_049	Questionnaire	P3: To cut	çe sewze berg neyrî?	qet bîye da!	It has been cut of course!
+S12	S12_050	Questionnaire	P3: To cut	çe sewze berg neyrî?	le esli řîşegey xoy qet bîye	It has been cut from its original root.
+S12	S12_051	Questionnaire	P3: To cut	çe sewze berg neyrî?	ew çûwege ki biřîyaye sewze ama belg neyrî	That stick which has been cut is green but does not have any leaves.
+S12	S12_052	Questionnaire	P4: To hit	çe dünîd le naw eksege?	yê dane pîya dîrî yê dane tup firřê dey	A man is throwing a ball.
+S12	S12_053	Questionnaire	P4: To hit	çe dünîd le naw eksege?	yê danêş pîyagan daye le beçiki yê dane kuř	One of the men has also hit on the head of a boy.
+S12	S12_054	Questionnaire	P4: To hit	çe çehri’îye?	tupege	The ball.
+S12	S12_055	Questionnaire	P4: To hit	çe çehri’îye?	ewe dîrî pekeygey da!	He is throwing it of course!
+S12	S12_056	Questionnaire	P4: To hit	çe çehri’îye?	we xatiri ewe	Because of that.
+S12	S12_057	Questionnaire	P4: To hit	çe çehri’îye?	erî çehri’îye da!	Yes, it is pink of course!
+S12	S12_058	Questionnaire	P4: To hit	çe çehri’îye?	ew tupege ki den ley çehri’îye	That ball which they are hitting it [=is being hit] is pink.
+S12	S12_059	Questionnaire	P4: To hit	kî rexti benawiş kirdîyuw werî?	zařû’ege dîrî …	The child is …
+S12	S12_060	Questionnaire	P4: To hit	kî rexti benawiş kirdîyuw werî?	zařû’ege rexti benawiş kirdîyuw werî	The child has put on purple clothes.
+S12	S12_061	Questionnaire	P4: To hit	kî rexti benawiş kirdîyuw werî?	we xatir ewe ki serî dagin ley şîkaniginey da	Of course, because they have hit on his head (and so) they have broken it [=his head has been hit and broken].
+S12	S12_062	Questionnaire	P4: To hit	kî rexti benawiş kirdîyuw werî?	dagin le serî şîkanigin	They have hit on his head (and so) they have broken it [=his head has been hit and broken].
+S12	S12_063	Questionnaire	P4: To hit	kî rexti benawiş kirdîyuw werî?	ewe ki dagin le serî benawiş kirdîyuw werî	That one who they have hit on his head [=his head has been hit] has put on purple.
+S12	S12_064	Questionnaire	P4: To hit	kî rexti benawiş kirdîyuw werî?	ewe ki dagin le serî serî şîkanigin benefş kirdîyuw werî	That one who they have hit on his head (and so) they have broken his head [=his head has been hit and broken] has put on purple.
+S12	S12_065	Questionnaire	P5: To hold	çe dünîd le naw eksege?	le naw eskege yê dane pîya yê dane zařû girtîyuw bawuşî	In the picture a man has hugged a child.
+S12	S12_066	Questionnaire	P5: To hold	çe dünîd le naw eksege?	bed yê dane zařû’îş nîştîye bestenî duxwey	Then, a child has also sat down (and) is eating an ice cream.
+S12	S12_067	Questionnaire	P5: To hold	çe dünîd le naw eksege?	yê danêş merd kûze le desîye	A man also holds a clay jar.
+S12	S12_068	Questionnaire	P5: To hold	kî rexti çehre’î kirdîyuw werî?	zařû’ege	The child.
+S12	S12_069	Questionnaire	P5: To hold	kî rexti çehre’î kirdîyuw werî?	zařû’ege rexti çehri’î kirdîyuw werî	The child has put on a pink dress.
+S12	S12_070	Questionnaire	P5: To hold	kî rexti çehre’î kirdîyuw werî?	ew jine zařû’ege le bawuşî îvet kirdîye ki negîrî da behane nekey	That woman has held the child in her hug so that she would not cry (or) nag of course.
+S12	S12_071	Questionnaire	P5: To hold	kî rexti çehre’î kirdîyuw werî?	ew zařû’ege ki îvet kîrîyaye rexti sûretî le werîye	That child who has been held is wearing a pink dress.
+S12	S12_072	Questionnaire	P5: To hold	çe sewze?	kûzege	The clay jar.
+S12	S12_073	Questionnaire	P5: To hold	çe sewze?	be xatir î ki rengî kirdigin da	Because they have painted it [=it has been painted] of course.
+S12	S12_074	Questionnaire	P5: To hold	çe sewze?	aha! ew kûzege ki îvet kîrîyaye sewze	Aha! That clay jar which has been held is green.
+S12	S12_075	Questionnaire	P6: To hug	çe dünîd le naw eksege?	le naw eskege yê dane pîyaw nîştîye řûyi sendelî kitab duxwenî	In the picture a man has sat on a chair (and) is reading a book.
+S12	S12_076	Questionnaire	P6: To hug	çe dünîd le naw eksege?	yê danêş zařû xirs le bawuşîye	A child also holds a teddy bear in her hug.
+S12	S12_077	Questionnaire	P6: To hug	çe dünîd le naw eksege?	yê danêş zařû bababozorgî bawuş girdîye	A child has also hugged her grand father.
+S12	S12_078	Questionnaire	P6: To hug	çe dünîd le naw eksege?	yê danêş zařû le řûyi mublege [aye muble? mîze] le bani mîzege nîştîye	A child has also sat on the sofa, [is it a sofa? It is a table] on the table.
+S12	S12_079	Questionnaire	P6: To hug	çe çermüge?	xirsege	The teddy bear.
+S12	S12_080	Questionnaire	P6: To hug	çe çermüge?	we xatiri î ki zařû’ege girtîyegey bawuşî çermüge	It is white because the child has hugged it.
+S12	S12_081	Questionnaire	P6: To hug	çe çermüge?	ew xirsege ki bawuş kîrîyaye çermüge	That teddy bear which has been hugged is white.
+S12	S12_082	Questionnaire	P6: To hug	kî kurwasi sewz kirdîyuw werî?	ey merdi pîrege da!	This old man of course!
+S12	S12_083	Questionnaire	P6: To hug	kî kurwasi sewz kirdîyuw werî?	nîzanim era çe sewze!	I don’t know why it is green!
+S12	S12_084	Questionnaire	P6: To hug	kî kurwasi sewz kirdîyuw werî?	bi xatiri î ki ew zařû’ege beqelî kirdîye we xatiri ewe libasegey sewze	Because that child has hugged it because of that his clothes are green.
+S12	S12_085	Questionnaire	P6: To hug	kî kurwasi sewz kirdîyuw werî?	ew pîyage ki bawuş kîrîyaye kurwasegey sewze	That man who has been hugged his suit is green.
+S12	S12_086	Questionnaire	P7: To kick	çe dünîd le naw eksege?	le naw eskege çûwar dane zařû’e	In the picture there are four children.
+S12	S12_087	Questionnaire	P7: To kick	çe dünîd le naw eksege?	yêkiley dîrî we leqqi’o dey le ewkile, le ew kurwas abîyege	One of them is kicking the other one, that one in blue dress.
+S12	S12_088	Questionnaire	P7: To kick	çe dünîd le naw eksege?	yêkilêş we leqqewe dey le tupege	One of them is also kicking the ball.
+S12	S12_089	Questionnaire	P7: To kick	çe dünîd le naw eksege?	yêkilêş tupege le desî xwazî leqqi’o bey ley	One of them wants to kick the ball in his hand.
+S12	S12_090	Questionnaire	P7: To kick	kî rexti kew kirdîyuw werî?	ewe ki leqqi’o den ley	That one who they are kicking her [=is being kicked].
+S12	S12_091	Questionnaire	P7: To kick	kî rexti kew kirdîyuw werî?	ewe ki leqqe dîrîyaye libasi kew le werîye	That one who has been kicked is wearing a purple dress.
+S12	S12_092	Questionnaire	P7: To kick	çe narincîye?	tupege	The ball.
+S12	S12_093	Questionnaire	P7: To kick	çe narincîye?	tupege leqqe den ley	The ball (which) they are kicking it [=is being kicked].
+S12	S12_094	Questionnaire	P7: To kick	çe narincîye?	eri! ewe ki leqqe daye ley narincîye	Yes! That one which he has kicked it is orange.
+S12	S12_095	Questionnaire	P7: To kick	çe narincîye?	ewe ki leqqe dîrîyaye narincîye	That one who has been kicked is orange.
+S12	S12_096	Questionnaire	P8: To kiss	çe dünîd le naw eksege?	penc nefer verzişkar	Five sportspersons.
+S12	S12_097	Questionnaire	P8: To kiss	çe dünîd le naw eksege?	verzişkaregan dîrin cayizi den weyan	They are giving prizes to the sportspersons [=the sportspersons are given prizes].
+S12	S12_098	Questionnaire	P8: To kiss	çe dünîd le naw eksege?	yêkiley ewe camege dagin wey maçî key	One of them is kissing that one, the cup (which) they have given to her.
+S12	S12_099	Questionnaire	P8: To kiss	çe dünîd le naw eksege?	yêkilêş dîrî dûware ew cayizege ki den wey, dagin wey we ewkilegan beygey	One of them is also again giving the other ones that prize which they are giving to her (or) they have given to her [=is being or has been given to her].
+S12	S12_100	Questionnaire	P8: To kiss	çe dünîd le naw eksege?	yêkilêş ki bi xatiri î ki xoşhale bûsî key	One of them also because she is happy is kissing it.
+S12	S12_101	Questionnaire	P8: To kiss	çe zerde?	camage	The cup.
+S12	S12_102	Questionnaire	P8: To kiss	çe zerde?	bi xatiri î ki bûsî ken maçî ken	Because they are kissing it [=it has been kissed].
+S12	S12_103	Questionnaire	P8: To kiss	çe zerde?	maçî ken erî da!	They are kissing it [=it is being kissed], yes of course!
+S12	S12_104	Questionnaire	P8: To kiss	çe zerde?	camege ki maç kiřîlî zerde	The cup which is being kissed is yellow.
+S12	S12_105	Questionnaire	P8: To kiss	kî müy serî sîyes?	ewe ki maçî ken	That one who they are kissing her [=is being kissed].
+S12	S12_106	Questionnaire	P8: To kiss	kî müy serî sîyes?	bi xatiri ewe ki maçî ken müy serî sîyes	Because they are kissing her [=she is being kissed] her hair is black.
+S12	S12_107	Questionnaire	P8: To kiss	kî müy serî sîyes?	ewe ki maç kiřîlî müy serî sîyes	That one who is being kissed her hair is black.
+S12	S12_108	Questionnaire	P9: To lift	çe dünîd le naw eksege?	sê nefer verzişkar	Three sportspersons.
+S12	S12_109	Questionnaire	P9: To lift	çe dünîd le naw eksege?	çar nefer	Four persons.
+S12	S12_110	Questionnaire	P9: To lift	çe dünîd le naw eksege?	çar nefer verzişkar	Four sportspersons.
+S12	S12_111	Questionnaire	P9: To lift	çe dünîd le naw eksege?	yêkiley dîrî pîyagan yêkiley birdîyuw ban serî	One of them has been lifting up one of the men.
+S12	S12_112	Questionnaire	P9: To lift	çe dünîd le naw eksege?	yêkilêş ki verziş key	One of them is also working out.
+S12	S12_113	Questionnaire	P9: To lift	çe dünîd le naw eksege?	yêkilêş veznege dîrî dûweye bani serî	One of them is also lifting up the weight.
+S12	S12_114	Questionnaire	P9: To lift	kî keçele?	ew pîyage ki le ban seri ewes keçele	The man who is above the head is bald.
+S12	S12_115	Questionnaire	P9: To lift	kî keçele?	ewe ki le ban seri ewes	That one who is above the head that one is so.
+S12	S12_116	Questionnaire	P9: To lift	kî keçele?	ewe ki elvirdîyegey ban serî ewe keçele	That one who he has lifted him above his head that one is bald.
+S12	S12_117	Questionnaire	P9: To lift	kî keçele?	erî da! ewe ki elviřîyaye keçele, le bani seri ew pîyage keçele	Yes of course! That one who has been lifted is bald, who has been lifted above the head of that man is bald.
+S12	S12_118	Questionnaire	P9: To lift	çe xakisserîye?	xakisserî!	Gray!
+S12	S12_119	Questionnaire	P9: To lift	çe xakisserîye?	ewe ki ewe ki xakisserîye ew veznege dîrî dûweye ban	That one that one which is gray that weight (which) he is lifting up.
+S12	S12_120	Questionnaire	P9: To lift	çe xakisserîye?	we xatiri ewe?	Is it because of that?
+S12	S12_121	Questionnaire	P9: To lift	çe xakisserîye?	elviřîgey ban serî	He is lifting it up.
+S12	S12_122	Questionnaire	P9: To lift	çe xakisserîye?	aha! ewe dîrî veznege elgîrîye bani serî	Aha! he is lifting the weight above his head.
+S12	S12_123	Questionnaire	P9: To lift	çe xakisserîye?	ewe ki elviřilîye bani ser ewe xakisserîye	That one which is being lifted above the head, that one is gray.
+S12	S12_124	Questionnaire	P10: To paint	çe dünîd le naw eksege?	le naw eskege sê nefer çûwar nefer dünum	In the picture I see three or four people.
+S12	S12_125	Questionnaire	P10: To paint	çe dünîd le naw eksege?	yêkiley ki xakisserîye dîrî yê dane zařû’ege ewe řeng key	One of them which is gray a child is painting it.
+S12	S12_126	Questionnaire	P10: To paint	çe dünîd le naw eksege?	yêkilêş ki ew zařû’ege dûware řeng key	One of them is also again painting that child.
+S12	S12_127	Questionnaire	P10: To paint	çe dünîd le naw eksege?	rengî key	He is painting him.
+S12	S12_128	Questionnaire	P10: To paint	çe dünîd le naw eksege?	yêkilêş ki le sorsořî dîrî dîyaye xwar	One of them is also coming down from the slide.
+S12	S12_129	Questionnaire	P10: To paint	çe dünîd le naw eksege?	yêkilêş xo mucessemes	One of them is also a statue.
+S12	S12_130	Questionnaire	P10: To paint	çe xakisserîye?	ewe ki reng kîrîyaye	That one which has been painted.
+S12	S12_131	Questionnaire	P10: To paint	çe xakisserîye?	ewe ki reng kîrîyaye	That one which has been painted.
+S12	S12_132	Questionnaire	P10: To paint	kî kurwasi sewz kirdîyuw werî?	ewe ki reng kîrîyaye	That one who has been painted.
+S12	S12_133	Questionnaire	P11: To pull	çe dünîd le naw eksege?	çûwar nefer dünum	I see four people.
+S12	S12_134	Questionnaire	P11: To pull	çe dünîd le naw eksege?	yêkiley maşînege kîşî	One of them is pulling the toy truck.
+S12	S12_135	Questionnaire	P11: To pull	çe dünîd le naw eksege?	zařû’egan yêkiley dîrî maşînege kîşî we düwa	One of the children is pulling the toy truck back.
+S12	S12_136	Questionnaire	P11: To pull	çe dünîd le naw eksege?	yê danêş le zařû’egan dîrî ew zařû’ege kîşî	One of the children is also pulling that child.
+S12	S12_137	Questionnaire	P11: To pull	çe dünîd le naw eksege?	yê danêş le zařû’egan dîrî sořsoři key	One of the children is also sliding.
+S12	S12_138	Questionnaire	P11: To pull	kî çermüg kirdîyuw werî?	ewe ki zařû’ege dîrî kîşîgey	That one who the child is pulling him.
+S12	S12_139	Questionnaire	P11: To pull	kî çermüg kirdîyuw werî?	ew zařû’ege ki ewkile kîşîgey da!	That child who the other one is pulling him of course!
+S12	S12_140	Questionnaire	P11: To pull	kî çermüg kirdîyuw werî?	aha! ew zařû’ege ki kîşîrîlî, ewkile kîşîgey bûweygey kurwasi çermû le werîye	Aha! That child who is being pulled, the other one is pulling to take him is wearing a white shirt.
+S12	S12_141	Questionnaire	P11: To pull	kî çermüg kirdîyuw werî?	ew zařû’ege ki kîşîrîlî kurwasi sefîd le werîye	That child who is being pulled is wearing a white shirt.
+S12	S12_142	Questionnaire	P11: To pull	kî çermüg kirdîyuw werî?	kurwasi çermû	A white shirt.
+S12	S12_143	Questionnaire	P11: To pull	kî çermüg kirdîyuw werî?	tuway büşîd çermû	You should say white.
+S12	S12_144	Questionnaire	P11: To pull	kî çermüg kirdîyuw werî?	sefîd farsîye ha!	sefid is Persian!
+S12	S12_145	Questionnaire	P11: To pull	kî çermüg kirdîyuw werî?	he he he he…	laughing…
+S12	S12_146	Questionnaire	P11: To pull	çe kewe?	maşînege	The toy truck.
+S12	S12_147	Questionnaire	P11: To pull	çe kewe?	çun we xatiri ewe ki kîşîgey kewe	Since he is pulling it, it is blue.
+S12	S12_148	Questionnaire	P11: To pull	çe kewe?	ew maşînege ki kîşîrîlî kewe	That toy truck which is being pulled is white.
+S12	S12_149	Questionnaire	P12: To punch	çe dünîd le naw eksege?	penc nefer dünum	I see five people.
+S12	S12_150	Questionnaire	P12: To punch	çe dünîd le naw eksege?	du neferî leyre dîrin we yêkdîrî muşt den	Two of them in here are punching each other.
+S12	S12_151	Questionnaire	P12: To punch	çe dünîd le naw eksege?	(muşt) den le yêkdîrî	They are punching each other.
+S12	S12_152	Questionnaire	P12: To punch	çe dünîd le naw eksege?	dûwanêş dûware lewre den le yêkdîrî we muştewe	Two of them in there are also again punching each other.
+S12	S12_153	Questionnaire	P12: To punch	çe dünîd le naw eksege?	yêkilêş leyre we muştewe dey le kîsege	One of them in here is also punching the punching bag.
+S12	S12_154	Questionnaire	P12: To punch	çe narincîye?	kîsege	The punching bag.
+S12	S12_155	Questionnaire	P12: To punch	çe narincîye?	we xatiri ewe ki den ley muştewe den ley	Because they are punching it [=it is being punched].
+S12	S12_156	Questionnaire	P12: To punch	çe narincîye?	ew kîsege ki we muştewe den ley narincîye	That punching bag which they are punching it [=it is being punched] is orange.
+S12	S12_157	Questionnaire	P12: To punch	çe narincîye?	ew kîsege ki müştewe den ley narincîye	That punching bag which they are punching it [=is being punched] is orange.
+S12	S12_158	Questionnaire	P12: To punch	çe narincîye?	ew kîsege ki müşt kutuřilîyaye ley narincîye	That punching bag which has been punched is orange.
+S12	S12_159	Questionnaire	P12: To punch	kî keçele?	ewe ki müştewe den ley	That one who they are punching it [=is being punched].
+S12	S12_160	Questionnaire	P12: To punch	kî keçele?	ewe ki müşt kutuřilî ewe keçele	That one who is being punched is bald.
+S12	S12_161	Questionnaire	P13: To push	çe dünîd le naw eksege?	penc nefer dünum	I see five people.
+S12	S12_162	Questionnaire	P13: To push	çe dünîd le naw eksege?	panc dane zařû dünum	I see five children.
+S12	S12_163	Questionnaire	P13: To push	çe dünîd le naw eksege?	yêkiley tabwazî key	One of them is swinging.
+S12	S12_164	Questionnaire	P13: To push	çe dünîd le naw eksege?	yêkiley tabwazî key	One of them is swinging.
+S12	S12_165	Questionnaire	P13: To push	çe dünîd le naw eksege?	yêkiley dîrî ewe ki tabwazî key holî dey	One of them is pushing that one who is swinging.
+S12	S12_166	Questionnaire	P13: To push	çe dünîd le naw eksege?	dûwanêş …	Two of them …
+S12	S12_167	Questionnaire	P13: To push	çe dünîd le naw eksege?	eykilêş dûware kalaskege hol dey	This one is also again pushing the baby carriage.
+S12	S12_168	Questionnaire	P13: To push	çe dünîd le naw eksege?	hemîn ew yê danegêş kaliskege hol dey	The other one is also just pushing the baby carriage.
+S12	S12_169	Questionnaire	P13: To push	çe dünîd le naw eksege?	yêş nîştîye le rûy textege	This one has also sat on the board.
+S12	S12_170	Questionnaire	P13: To push	çe dünîd le naw eksege?	erî des ney ley	Yes, she is pushing it.
+S12	S12_171	Questionnaire	P13: To push	çe dünîd le naw eksege?	erî da!	Yes, of course!
+S12	S12_172	Questionnaire	P13: To push	çe dünîd le naw eksege?	ewe ki kaliskege des ney ewe abîye	That one who is pulling the baby carriage that baby carriage is blue [=the baby carriage which is being pulled by that one is blue].
+S12	S12_173	Questionnaire	P13: To push	kî rexti qirmizî kirdîyuw werî?	ewe ki le naw tabeges	That one who is on the swing.
+S12	S12_174	Questionnaire	P13: To push	kî rexti qirmizî kirdîyuw werî?	ewe ki naw tabeges rexti qirmiz le werîye	That one who is on the swing is wearing a red shirt.
+S12	S12_175	Questionnaire	P13: To push	kî rexti qirmizî kirdîyuw werî?	aha! ewe ki hol diřilî ewe qirmize rextegey	Aha! that one who is being pulled that one his shirt is red.
+S12	S12_176	Questionnaire	P13: To push	çe çerxi sewz dîrî?	ewe kaliskeges da!	It is the baby carriage of course!
+S12	S12_177	Questionnaire	P13: To push	çe çerxi sewz dîrî?	kaliskege we xatiri ewe ki holî den çerxegey sewze	The baby carriage because they are pulling it [=which is being pulled] its wheel is green.
+S12	S12_178	Questionnaire	P13: To push	çe çerxi sewz dîrî?	ew kaliskege ki hol diřilî çerxegey sewze	That baby carriage which is being pulled its wheel is green.
+S12	S12_179	Questionnaire	P14: To shoot	çe dünîd le naw eksege?	penc nefer dünum	I see five people.
+S12	S12_180	Questionnaire	P14: To shoot	çe dünîd le naw eksege?	dîrî yêkiley nişan girtîye xwazî we tîrewe bey le ew tablewege	One of them has been targeting at the board (and) wants to shoot at it.
+S12	S12_181	Questionnaire	P14: To shoot	çe dünîd le naw eksege?	yêkilêş dikîşî le beçikî üşî “eyda tîrewe den le man”	One of them also hitting on his head says “here they are shooting us” [=we are being shot here].
+S12	S12_182	Questionnaire	P14: To shoot	çe dünîd le naw eksege?	yêkilêş dûware tîr pekey	One of them is also again shooting.
+S12	S12_183	Questionnaire	P14: To shoot	çe dünîd le naw eksege?	ewkile hwar key da	The other one is also screaming.
+S12	S12_184	Questionnaire	P14: To shoot	çe dünîd le naw eksege?	erî! tîr xwardîye hwar key	Yes! Since the man has got shot, he is screaming.
+S12	S12_185	Questionnaire	P14: To shoot	çe dünîd le naw eksege?	dikîşî le beçikî dado bîdad key	He is hitting over his head (and) is shouting.
+S12	S12_186	Questionnaire	P14: To shoot	çe dünîd le naw eksege?	ayekilêş xwazî we ewe kumek bikey	This one also wants to help the other one.
+S12	S12_187	Questionnaire	P14: To shoot	çe dünîd le naw eksege?	erî?	Is that right?
+S12	S12_188	Questionnaire	P14: To shoot	çe dünîd le naw eksege?	ewêş xwazî le düwada we ewe kumek bikey ki ewe bîşter tîr pekey	That one also wants to help her from behind to shoot more.
+S12	S12_189	Questionnaire	P14: To shoot	çe dünîd le naw eksege?	erî da!	Yes, of course.
+S12	S12_190	Questionnaire	P14: To shoot	çe kewe newrasî sorxe?	tablewe	It is a shooting board.
+S12	S12_191	Questionnaire	P14: To shoot	çe kewe newrasî sorxe?	we xatiri ewe tîr xwardîye da	Because it has got shot of course.
+S12	S12_192	Questionnaire	P14: To shoot	çe kewe newrasî sorxe?	ew tablewe ki tîr xwardîye xoy kewe newrasegey qirmizîye	That target board which has got shot is blue (but) its center is red.
+S12	S12_193	Questionnaire	P14: To shoot	çe kewe newrasî sorxe?	ew tablewe ki tîr dünî	That target board which is getting shot
+S12	S12_194	Questionnaire	P14: To shoot	çe kewe newrasî sorxe?	ew tablewege ki tîrewe dagin ley xoy kewe newrasegey qirmize	That target board which they have shot it [=has been shot] is blue (but) its center is red.
+S12	S12_195	Questionnaire	P14: To shoot	çe kewe newrasî sorxe?	ew tablewege ki tîr dîrîyaye xoy kewe newrasegey qirmize	That target board which has been shot is blue (but) its center is red.
+S12	S12_196	Questionnaire	P14: To shoot	kî rexti sewz kirdîyuw werî?	ewe ki dagin ley da!	That one who they have shot at him [=has been shot] of course!
+S12	S12_197	Questionnaire	P14: To shoot	kî rexti sewz kirdîyuw werî?	ewe ki we tîrewe dagin ley	That one who they have shot at him [=has been shot].
+S12	S12_198	Questionnaire	P14: To shoot	kî rexti sewz kirdîyuw werî?	ewe ki tîr dîrîlîyaye ley	That one who has been shot.
+S12	S12_199	Questionnaire	P14: To shoot	kî rexti sewz kirdîyuw werî?	ewe ki we tîrewe dagin ley libasegey sewze	That one who they have shot at him [=has been shot] his shirt is green.
+S12	S12_200	Questionnaire	P15: To splash	çe dünîd le naw eksege?	penc dane zařû dünum	I see five children.
+S12	S12_201	Questionnaire	P15: To splash	çe dünîd le naw eksege?	sîyanî le naw awege abpaşî ken	Three of them are splashing water in the water pool.
+S12	S12_202	Questionnaire	P15: To splash	çe dünîd le naw eksege?	yêkiley le ban çarpayege nîştîye	One of them has sat on the stool.
+S12	S12_203	Questionnaire	P15: To splash	çe dünîd le naw eksege?	yêkilêş le jîri dûşege wûsîyaye	One of them has also stood under the shower.
+S12	S12_204	Questionnaire	P15: To splash	kî kurwas neyrî?	ewe ki aw pîşanigine banî kurwas neyrî	That one who they have splashed water [=water has been splashed] on his is not wearing a shirt.
+S12	S12_205	Questionnaire	P15: To splash	kî kurwas neyrî?	ewe ki aw pîşîrîlîye banî kurwas neyrî	That one who water is being splashed on him.
+S12	S12_206	Questionnaire	P15: To splash	çe sewze?	orde’ege	The duck.
+S12	S12_207	Questionnaire	P15: To splash	çe sewze?	we xatiri ewe ki abbazî key	Because it is paddling in the water.
+S12	S12_208	Questionnaire	P15: To splash	çe sewze?	ew orde’ege ki le naw aweges aw pîşîrîlîye banî we xatiri ewe sewze	That duck which is in the water (and) water is being splashed on it because of that is green.
+S12	S12_209	Questionnaire	P16: To spray	çe dünîd le naw eksege?	penc dane zařû dünum	I see five children.
+S12	S12_210	Questionnaire	P16: To spray	çe dünîd le naw eksege?	yêkiley we aw pîşînîye bani tablewege	One of them is spraying water on the target board.
+S12	S12_211	Questionnaire	P16: To spray	çe dünîd le naw eksege?	tablewe ki lewre nişan nîyaginey	The board which they have targeted at [=has been targeted at] in there.
+S12	S12_212	Questionnaire	P16: To spray	çe dünîd le naw eksege?	yêkilêş dîrî aw pîşînî	One of them is also spraying water.
+S12	S12_213	Questionnaire	P16: To spray	çe dünîd le naw eksege?	ewkile we ewe dikenî	The other one is laughing at him.
+S12	S12_214	Questionnaire	P16: To spray	çe dünîd le naw eksege?	yêkilêş dîrî we abenwat le desî si dane badkonek dîyay	One of them is also coming with the lollipop and the balloon in her hand.
+S12	S12_215	Questionnaire	P16: To spray	çe dünîd le naw eksege?	yêkilêş xo aw pîşînî	One of them is also spraying water.
+S12	S12_216	Questionnaire	P16: To spray	çe dünîd le naw eksege?	ewkile dikenî da!	The other one is laughing of course.
+S12	S12_217	Questionnaire	P16: To spray	kî kewşi kew kirdîyuw pay?	ewe ki aw pîşanigine banî	That one who they have sprayed water [=water has been sprayed] on him.
+S12	S12_218	Questionnaire	P16: To spray	kî kewşi kew kirdîyuw pay?	aha! aw pîşanigine banî	Aha! They have sprayed water [=water has been sprayed] on him.
+S12	S12_219	Questionnaire	P16: To spray	kî kewşi kew kirdîyuw pay?	ewe ki aw pîşanigine banî	That one who they have sprayed water [=water has been sprayed] on him.
+S12	S12_220	Questionnaire	P16: To spray	kî kewşi kew kirdîyuw pay?	ewe ki aw pîşîrîlîye banî kewşegey kewe	That one who water is being sprayed on him his shoe is blue.
+S12	S12_221	Questionnaire	P16: To spray	quşege le bani çe nîştîye?	le bani ew nişanege le bani ew tablew nişanege	On that target board, on that shooting board.
+S12	S12_222	Questionnaire	P16: To spray	quşege le bani çe nîştîye?	we xatiri î ki aw pîşîrîyaye banî	Because water has been sprayed on it.
+S12	S12_223	Questionnaire	P16: To spray	quşege le bani çe nîştîye?	ewe ki aw pîşîrîlîyaye banî quşege we xatiri ewe le bani ew nîştîye	That one which water has been sprayed on it because of that the bird has sat on it.
+S12	S12_224	Questionnaire	P17: To throw	çe dünîd le naw eksege?	çûwar dane merd dünum	I see four men.
+S12	S12_225	Questionnaire	P17: To throw	çe dünîd le naw eksege?	dûwanî eray yêkdîrî tup peken	Two of them are throwing a ball for each other.
+S12	S12_226	Questionnaire	P17: To throw	çe dünîd le naw eksege?	yêkilêş xwazî yêkiley bukutîye zemîn	One of them also wants to beat the other one to the ground.
+S12	S12_227	Questionnaire	P17: To throw	çe sorxe?	ewe tupeges qirmizîye	That is the ball (which) is red.
+S12	S12_228	Questionnaire	P17: To throw	çe sorxe?	we xatir eray pekirîyaye eray yêkdîrî qirmize	Because it has been thrown for each other is red.
+S12	S12_229	Questionnaire	P17: To throw	çe sorxe?	ew tupege ki pekiřîlî qirmize	That ball which is being thrown is red.
+S12	S12_230	Questionnaire	P17: To throw	kî rexti zerd kirdîyuw werî?	ewe ki xwazin beney zemîn rexti qirmiz le werîye	That one who they want to knock him [=is to be knocked] to the ground is wearing a red shirt.
+S12	S12_231	Questionnaire	P17: To throw	kî rexti zerd kirdîyuw werî?	ewe ki xwazin bukutiney zemîn rextegey zerde da	That one who they want to beat him [=is to be beaten] to the ground is wearing a yellow shirt of course.
+S12	S12_232	Questionnaire	P17: To throw	kî rexti zerd kirdîyuw werî?	ewe ki pekiřîlîye zemîn rextegey zerde	That one who is being thrown to the ground is wearing a yellow shirt.
+S12	S12_233	Questionnaire	P18: To tie	çe dünîd le naw eksege?	çûwar dane zařû’in da dünumeyan	There are of course four children (who) I see.
+S12	S12_234	Questionnaire	P18: To tie	çe dünîd le naw eksege?	yêkiley dîrî bendi kewşegey dûwesî	One of them is fastening his shoe laces.
+S12	S12_235	Questionnaire	P18: To tie	çe dünîd le naw eksege?	yêkiley nîştîye le bani sendelî rûzname duxwenî	One of them has sat on the sofa (and) is reading a newspaper.
+S12	S12_236	Questionnaire	P18: To tie	çe dünîd le naw eksege?	yê danêş le zařû’egan dîrî we tenafewe pîyagan yêkiley dûwesî	One of the children is also fastening one of the men with a rope.
+S12	S12_237	Questionnaire	P18: To tie	çe kewe?	ewe kewşegeye	It is his shoe.
+S12	S12_238	Questionnaire	P18: To tie	çe kewe?	kewşegey kewe	His shoe is blue.
+S12	S12_239	Questionnaire	P18: To tie	çe kewe?	kewşege ki dîrî bennegey wesî kewe	The shoe which he is tying its lace is blue.
+S12	S12_240	Questionnaire	P18: To tie	çe kewe?	kewşege ki gîrye dîrîlîyaye kewe	The shoe which is being tied is blue.
+S12	S12_241	Questionnaire	P18: To tie	kî kurwasi qirmizî kirdîyuw werî?	ewe ki we tenafewe dûwesiney	That one who they are fastening him [=is being fastened] with a rope.
+S12	S12_242	Questionnaire	P18: To tie	kî kurwasi qirmizî kirdîyuw werî?	ewe ki we tenafewe gîryey den ewe kurwasegey qirmize	That one who they are tying him [=is being tied] with a rope that one his shirt is red.
+S12	S12_243	Questionnaire	P18: To tie	kî kurwasi qirmizî kirdîyuw werî?	ewe ki we tenafewe gîrgey dagin	That one who they have tied him [=has been tied] with a rope.
+S12	S12_244	Questionnaire	P18: To tie	kî kurwasi qirmizî kirdîyuw werî?	ewe ki we tenafewe gîrye dirîyaye ewe libasegey qirmize	That one who has been tied with a rope his shirt is red.
+S12	S12_245	Questionnaire	P19: To touch	çe dünîd le naw eksege?	çûwar dane merd dünum	I see four men.
+S12	S12_246	Questionnaire	P19: To touch	çe dünîd le naw eksege?	yêkiley dîrî we libasegey des kîşî	One of them is touching his clothes.
+S12	S12_247	Questionnaire	P19: To touch	çe dünîd le naw eksege?	we libasi yêkiley des kîşî	She is touching the clothes of one of them.
+S12	S12_248	Questionnaire	P19: To touch	çe dünîd le naw eksege?	yêkilêş le řûy sendelîyege nîştîye rûzname duxwenî	One of them has also sat on the sofa and is reading a newspaper.
+S12	S12_249	Questionnaire	P19: To touch	çe dünîd le naw eksege?	yêkilêş dîrî we řuy kamputirege des kîşî	One of them is also touching the screen of the computer.
+S12	S12_250	Questionnaire	P19: To touch	kî rexti sîye kirdîyuw werî?	we xatir ew ki des kîşîyagine banî	Because they have been touched him [=he has been touched].
+S12	S12_251	Questionnaire	P19: To touch	kî rexti sîye kirdîyuw werî?	ewe ki des kîşîrîlîyaye kurwas sîye le werîye	That one which has been touched is wearing a black shirt.
+S12	S12_252	Questionnaire	P19: To touch	çe sewze?	kampütirîyege	The computer.
+S12	S12_253	Questionnaire	P19: To touch	çe sewze?	ewe ki des kîşîrîyaye we banî sewze	That one which has been touched is green.
+S12	S12_254	Questionnaire	P20: To wipe	çe dünîd le naw eksege?	panc dane zařû dünum	I see five children.
+S12	S12_255	Questionnaire	P20: To wipe	çe dünîd le naw eksege?	yêkiley dîrî şüşege pîkew key	One of them is wiping the window glass.
+S12	S12_256	Questionnaire	P20: To wipe	çe dünîd le naw eksege?	yêkiley dîrî çewi ewkile temîzo key	One of them is wiping the eye of the other one.
+S12	S12_257	Questionnaire	P20: To wipe	çe dünîd le naw eksege?	yêkilêş eray yêkdîrî tup peken	The other ones are also throwing the ball for each other.
+S12	S12_258	Questionnaire	P20: To wipe	çe dünîd le naw eksege?	dûwan, dûwanî eray yêkdîrî tup peken	Two of them, two of them are throwing the ball for each other.
+S12	S12_259	Questionnaire	P20: To wipe	çe kewe?	ewe ki temîzîyo kirdigin, pîkew kîrîyaye	That one which they have wiped it (or) has been wiped.
+S12	S12_260	Questionnaire	P20: To wipe	çe kewe?	ewe ki pîkew kîrîyaye kewe	That one which has been wiped is blue.
+S12	S12_261	Questionnaire	P20: To wipe	kî kurwasi çermüg kirdîyuw werî?	ewe ki çewî temîzo ken, pîkew kîrîyaye	That one who they are wiping his eye [=his eye is being wiped] (or) his eye has been wiped.
+S12	S12_262	Questionnaire	P20: To wipe	kî kurwasi çermüg kirdîyuw werî?	ewe ki çewî pîkew kîrîyaye sefîd le werîye	That one whose eye has been wiped is wearing white.
+S12	S12_263	Story Narration			kelişîrege dîrî çe bango dey!	How much the cock is crowing!
+S12	S12_264	Story Narration			ayda hûze da, kelişîreganî bango dey	Here is a village of course, (where) its cocks crow.
+S12	S12_265	Story Narration			hemîşe le hûz kelişîr bîster bango dey	Always in the village cocks crow more.
+S12	S12_266	Story Narration			yê danêş pîyaw diçîyuw ser dirextege	A man is also going to the top of the tree.
+S12	S12_267	Story Narration			dîrî gulabî dikenîyo piř keye naw kîsege le werdemî	He is picking pears and is filling them into the bage in front of him.
+S12	S12_268	Story Narration			kîsege bestîyuw werdemî	He has fastened the bag in front of him.
+S12	S12_269	Story Narration			yêkiley keft	One of them fell.
+S12	S12_270	Story Narration			hate xwar	He came down.
+S12	S12_271	Story Narration			xwazî xalîyo bikey temam gulabîyegan	(He) wants to empty all the pears.
+S12	S12_272	Story Narration			temam xalî’î kird le naw kîsege	(He) emptied all from inside the bag.
+S12	S12_273	Story Narration			aha! temam xalîyo kird	Aha! (He) emptied all.
+S12	S12_274	Story Narration			rûwey kennîyano	He went to pick them.
+S12	S12_275	Story Narration			temam yêkî yêkî xalîyan keye zemîno	(He) empties them all on the ground one by one.
+S12	S12_276	Story Narration			beli	Yes.
+S12	S12_277	Story Narration			ayda ênê kari kişaverzîye da temam dirext dîrîyo gulabî dîrîyo	Here belongs to agricultural work of course, (where) (it) has thoroughly tree and pear.
+S12	S12_278	Story Narration			yêkilêş keft rûwey dûware hawirdey	He went (and) again brought one of them (which) fell down.
+S12	S12_279	Story Narration			sirdey dûware nîyagey bani ewane	He wiped it (then) put it again above them.
+S12	S12_280	Story Narration			rûserîyegey le gerdinî awkird	He untied his scarf from around his neck.
+S12	S12_281	Story Narration			we rûserîyege temîzî kirdo	He wiped it with the scarf.
+S12	S12_282	Story Narration			dineygey lay ewane	He is putting it beside them.
+S12	S12_283	Story Narration			beli	Yes.
+S12	S12_284	Story Narration			dîrî …,	He is …,
+S12	S12_285	Story Narration			we rûserîyegewe dûware temîzîyan kirdo bestey gerdinî rûserîyege	(He) wiped them again with his scarf and (then) tied the scarf around his neck.
+S12	S12_286	Story Narration			xob!	Ok!
+S12	S12_287	Story Narration			xoy temîzo keyo	He wipes himself.
+S12	S12_288	Story Narration			dořî çe bikey?	What is he going to do?
+S12	S12_289	Story Narration			dubare dořî gulabî bîyarî nîzam!	I don’t know if he is going to bring pears!
+S12	S12_290	Story Narration			yêkilêş ewe kerege dîyarî	One of them is also bringing the donkey.
+S12	S12_291	Story Narration			kere ya bizine?	Is it a donkey or a goat?
+S12	S12_292	Story Narration			bizine	It is a goat.
+S12	S12_293	Story Narration			erî yê dane bizine	Yes, it is a goat.
+S12	S12_294	Story Narration			yê danêş girtîye le yê şaxi yê bizinî yarî	A person has also taken the horn of a goat (and) is bringing it.
+S12	S12_295	Story Narration			dikîşî yarîgey	He brings it (while) he is pulling it.
+S12	S12_296	Story Narration			nîyam rûwey çoyî bikey!	(I) don’t know (he) went (to) do what (with) it!
+S12	S12_297	Story Narration			bizine çenî ziles!	How big is the goat!
+S12	S12_298	Story Narration			yê bizine we bizini hûzî nîwuřî!	This goat does not look like the goats of the village.
+S12	S12_299	Story Narration			nîyam kûri’îye	I don’t know where does it come from.
+S12	S12_300	Story Narration			dubare rûwey nîyam gulabî dikenî!	I don’t know if he went to pick pears again!
+S12	S12_301	Story Narration			dubare piř keye naw kîsegey	(He) fills in his bag again.
+S12	S12_302	Story Narration			yêkilêş dîrî we duçerxewe dîyay	One of them is also coming by bike.
+S12	S12_303	Story Narration			duçerxewe dor dey	(He) makes a turn by the bike.
+S12	S12_304	Story Narration			zařû’e	It is a child.
+S12	S12_305	Story Narration			erî yê dane zařû dîrî we duçerxi’o dîyay	Yes, a child is coming on a bike.
+S12	S12_306	Story Narration			dor dey	(He) makes a turn.
+S12	S12_307	Story Narration			hat nîyam we kûre!	I don’t know where he came to!
+S12	S12_308	Story Narration			hat çe bikey zařû’ege?	What did the child come (to) do?
+S12	S12_309	Story Narration			xob!	Ok!
+S12	S12_310	Story Narration			zařû’ege kilaw doridar nîyaye’o we xatiri î ki hewage germe da	The child has put on a brimmed hat because the weather is hot of course.
+S12	S12_311	Story Narration			hate pay dirextege	He came to the tree.
+S12	S12_312	Story Narration			lewre parkî kird duçerxegeyo	He stopped his bike there.
+S12	S12_313	Story Narration			îhîm!	Ihim!
+S12	S12_314	Story Narration			xwazî bořîye ser dirextege	(He) wants to go on top of the tree.
+S12	S12_315	Story Narration			xwazî çe bikenî?	What does he want to pick?
+S12	S12_316	Story Narration			nîzam leyre çe hes!	I don’t know what is here!
+S12	S12_317	Story Narration			xwazî çoyîyan bikey ewane?	What (does) (he) want to do (with) them?
+S12	S12_318	Story Narration			sebete?	Is it a basket?
+S12	S12_319	Story Narration			aha! sebetege nîyam dûweye kûre!	Aha! I don’t know to where he is taking the basket!
+S12	S12_320	Story Narration			dizî!	He stole!
+S12	S12_321	Story Narration			aha! nîyam xwazî dizî bikey kuře!	Aha! (I) don’t know (if) the boy wants to steal!
+S12	S12_322	Story Narration			we duçerxewe hato	He came on bike.
+S12	S12_323	Story Narration			yê cebes nîzam pilastîke piř kirdîye le gulabîye!	(There) is a box, (I) don’t know (if) (it) is a plastic bag (which) he has filled with pear!
+S12	S12_324	Story Narration			aha! dîrî neyegey werdemi çerxegeyo	Aha! (He) is putting it in front of his bike.
+S12	S12_325	Story Narration			xwazî bûweygey	He wants to take it away.
+S12	S12_326	Story Narration			ey way! dizî kird!	Oh God! He stole.
+S12	S12_327	Story Narration			toni xoda!	Oh my God!
+S12	S12_328	Story Narration			aha! ew pîyage nezanist yê zařû’ege ley dizî kird!	Aha! That man didn’t know (that) this (one), the child stole from him!
+S12	S12_329	Story Narration			esen nezanist zařû’ege	He did not understand (the existence of) the child at all.
+S12	S12_330	Story Narration			oh oh! le gulabîyege birda!	Oh oh! He took away the pears of course!
+S12	S12_331	Story Narration			çenî maşalla çabuke le dizî!	How (he) is agile in stealing!
+S12	S12_332	Story Narration			yê danêş dut dîrî we duçerxi’o dûware dîyay	A girl is also coming by bike again.
+S12	S12_333	Story Narration			gîseganî xistîye wey la wow la’o	She has hung her braids in both sides of her head.
+S12	S12_334	Story Narration			aha! yane kumegi yêkdîrîyin!	Aha! These are helper of one another!
+S12	S12_335	Story Narration			nîyam yane des we yêk ken dizî biken!	(I) don’t know (if) these (ones) conspire (to) steal!
+S12	S12_336	Story Narration			erî?	Is that right?
+S12	S12_337	Story Narration			erî da!	Yes of course.
+S12	S12_338	Story Narration			şa!	Look!
+S12	S12_339	Story Narration			keft	He fell.
+S12	S12_340	Story Narration			keft gulabîyeganî temam rîşîya	He fell (and so) all of his pears were spilled.
+S12	S12_341	Story Narration			eceb!	Wow!
+S12	S12_342	Story Narration			we duçerxiˀo dîrîya le zemîno	(He) was knocked down with his bike.
+S12	S12_343	Story Narration			gulabîyeganî temam pîşîya!	All of his pears were sprayed!
+S12	S12_344	Story Narration			dîrî xoy pîkew key	He is wiping himself.
+S12	S12_345	Story Narration			dîrî kewşegey durus key	(He) is arranging his shoes.
+S12	S12_346	Story Narration			dîrî libasegey …	He is his clothes …
+S12	S12_347	Story Narration			ey! zexmî bî nîzam!	Oh! I don’t know if he became wounded.
+S12	S12_348	Story Narration			bîne çar nefer	They became four persons.
+S12	S12_349	Story Narration			bîne çar nefer	They became four persons.
+S12	S12_350	Story Narration			bîne çar nefer	They became four persons.
+S12	S12_351	Story Narration			dîrin gulabîyegan cem ken	They are collecting the pears.
+S12	S12_352	Story Narration			yane temam zařû’in	All of them are children.
+S12	S12_353	Story Narration			zařû wucî kargelî key da!	Child do works likewise of course!
+S12	S12_354	Story Narration			eqlî nîwuřî ki dizî xeřappe!	He does not understand that stealing is bad.
+S12	S12_355	Story Narration			aha!	Aha!
+S12	S12_356	Story Narration			ewane des we yêk kirdigin xwazin le gulabîyege bidizin eman da netenistin	(While) they have conspired, (they) want to steal from the pears but (they) couldn’t of course.
+S12	S12_357	Story Narration			hala dîrin dûware cemî ken	Now (they) are collecting it again.
+S12	S12_358	Story Narration			îhîm!	Ihim!
+S12	S12_359	Story Narration			kumegî kirdin da řefîqeganî	His friends helped him of course.
+S12	S12_360	Story Narration			dîrin dûwesiney bani duçerxege’o bûweney	(They) are fastening it on the bike (to) carry it.
+S12	S12_361	Story Narration			aha!	Aha!
+S12	S12_362	Story Narration			aha!	Aha!
+S12	S12_363	Story Narration			birdiney	They took it away.
+S12	S12_364	Story Narration			bilexeri kume’eganî, zařû’egan hatine kumegîyo	Finally, his helpers, the children, came to his help.
+S12	S12_365	Story Narration			dořin	They are leaving.
+S12	S12_366	Story Narration			cemî kirdeno	They collected it.
+S12	S12_367	Story Narration			aha!	Aha!
+S12	S12_368	Story Narration			rûwey	He went.
+S12	S12_369	Story Narration			gulabî xoyan dizîno birdin	They stole the pears themselves and took them away
+S12	S12_370	Story Narration			rûweyn	(Then) they went.
+S12	S12_371	Story Narration			çûwar neferin	(They) are four persons.
+S12	S12_372	Story Narration			zařû hûz wucîres da!	Village children are like this!
+S12	S12_373	Story Narration			hemeş merdumazarî key	He is just annoying people.
+S12	S12_374	Story Narration			kewşeganêş girte desîyo	(He) also took the shoes in his hand.
+S12	S12_375	Story Narration			kilawegêş nîya we serîyo	He also put the hat on his head.
+S12	S12_376	Story Narration			dari şüştegêş dijenî!	(He) is also blowing (a) whistle!
+S12	S12_377	Story Narration			era çe pes tay şüşteg bijenîd?	For what then should (you) blow (a) whistle?
+S12	S12_378	Story Narration			igir kesîş nîzanî dizanî da ki dizî keyd	If someone also doesn’t know, (he) (will) know of course that (you) are stealing.
+S12	S12_379	Story Narration			kilawegêş nîya we serîyo	He also put on his hat.
+S12	S12_380	Story Narration			duçerxegêş elan sûwar dû dořî	Now he is also mounting his bike (and) going.
+S12	S12_381	Story Narration			dubare eykile nîyam çes le desî dîyarî	Again, this one of them, I don’t know what it is in his hand (which) he is bringing.
+S12	S12_382	Story Narration			gulabîyege girtîyuw desî dîyay	He comes (as) he has held the pear in his hand.
+S12	S12_383	Story Narration			aha!	Aha!
+S12	S12_384	Story Narration			aha!	Aha!
+S12	S12_385	Story Narration			we řefîqeganî gulabî dey	He gives pears to his friends.
+S12	S12_386	Story Narration			aha!	Aha!
+S12	S12_387	Story Narration			duxweney da!	They are eating it of course!
+S12	S12_388	Story Narration			ewse neşürîya temam xwardiney gulabîye	As you see, they ate the unwashed pear [=the pear which was not washed] completely.
+S12	S12_389	Story Narration			aha!	Aha!
+S12	S12_390	Story Narration			çi qişeng nim qed(in)!	How cute they (are) tall and half tall!
+S12	S12_391	Story Narration			aha! pîyage le seri dirextege hala taze dîyaye xwar	Aha! The man is just now coming down from the top of the tree.
+S12	S12_392	Story Narration			da nîzanî le gulabîyaganî dizîyin	He does not know anymore (that) they have stolen his pears [=his pears have been stolen].
+S12	S12_393	Story Narration			aha!	Aha!
+S12	S12_394	Story Narration			ê! dünî yê dane le setleganî nîye!	Wow! He sees (that) one of his buckets is not there.
+S12	S12_395	Story Narration			eceb!	Wow!
+S12	S12_396	Story Narration			aha!	Aha!
+S12	S12_397	Story Narration			“ey bed bext! to ser qal bîd!”	“Poor guy! You were left high and dry!”
+S12	S12_398	Story Narration			“gulabîyeganet dizîn!”	“They stole your pears!”
+S12	S12_399	Story Narration			dîyan	They are coming.
+S12	S12_400	Story Narration			dizanî weyan?	Does he make them understand?
+S12	S12_401	Story Narration			aha!	Aha!
+S12	S12_402	Story Narration			eceb!	Wow!
+S12	S12_403	Story Narration			pîyage he nîzanî yane dizin?	Does the man still not know (that) these are thieves?
+S12	S12_404	Story Narration			aha!	Aha!
+S12	S12_405	Story Narration			pes ewes!	So, this is how it is!
+S12	S12_406	Story Narration			dubare elgirino duxwen dořin	(They) pick up and eat again (while) (they) are going.
+S12	S12_407	Story Narration			erî?	Is that right?
+S12	S12_408	Story Narration			aha!	Aha!
