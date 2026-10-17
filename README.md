@@ -135,6 +135,6 @@ We thank the 30 speakers for their participation.
 
 ## 13\. Changelog
 
-* **v1.0.1** `\[date]`: added the description of the fieldwork and the authors line; revised the roles section; stated the reasons for omitting timestamps, the Persian translations and the annotation; corrected the license text, the citation file and the removal-request wording.
+* **v1.0.1** `17.10.2026`: published the corpus as the original Word documents (one per speaker) instead of the tab-separated files used in v1.0.0; added the description of the fieldwork and the authors line; revised the roles section; stated the reasons for omitting audio and annotation; corrected the license text, the citation file and the removal-request wording. Version DOI: [10.5281/zenodo.23435349](https://doi.org/10.5281/zenodo.23435349).
 * **v1.0** (3 October 2026): first release.
 
