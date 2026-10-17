@@ -7,8 +7,8 @@ abstract: >-
   elicited questionnaire responses and narrative retellings. Each speaker
   is provided as a separate UTF-8 tab-separated file with the Garrusi
   transcript and English translation.
-version: "1.0.0"
-date-released: "2026-10-03"
+version: "1.0.1"
+date-released: "2026-10-17"
 license: CC-BY-4.0
 type: dataset
 
@@ -39,3 +39,4 @@ keywords:
 repository-code: "https://github.com/Hiwasan/garrusi-kurdish-phase1-corpus"
 
 doi: "10.5281/zenodo.23121203"
+# Version-specific DOI for v1.0.1: 10.5281/zenodo.23435349
