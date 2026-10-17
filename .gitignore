@@ -4,10 +4,10 @@ mapping.csv
 *.private.csv
 qa_report_*.txt
 
-# Raw sources — not published
-*.docx
+# Raw sources — not published (but data/ IS published as .docx)
 ~$*
 *.mp3
+!data/*.docx
 
 # OS / editor
 .DS_Store
