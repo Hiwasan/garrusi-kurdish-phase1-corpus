@@ -22,17 +22,17 @@ README.md  LICENSE  CITATION.cff
 
 ## 2\. Data format
 
-Each file is UTF-8 plain text, tab-separated, with one header row and one utterance per row.
+Each speaker is provided as a Microsoft Word (`.docx`) document. Each document contains a table listing the speaker's utterances, one per row, with the following columns:
 
 |Column|Content|
 |-|-|
-|`speaker`|Speaker ID (S01 to S30). IDs are pseudonyms.|
-|`utt\_id`|Utterance ID: speaker ID plus the running number from the source transcript (e.g. `S01\_001`). Numbering follows the source, so gaps can occur. See *Known issues* for one duplicated ID.|
-|`section`|`Questionnaire` or `Story Narration`.|
-|`elicitation\_item`|The target verb of the questionnaire item (P1 to P20, e.g. "P1: To bury"). Empty in `Story Narration`.|
-|`prompt`|The question put to the speaker in Garrusi, for questionnaire responses.|
-|`garrusi`|Transcription of the speaker's utterance (Latin-based orthography, see below).|
-|`english`|English translation.|
+|`No.`|Utterance ID: the speaker code followed by the running number from the source transcript (e.g. `CZ_1`, `CZ_2`).|
+|`Garrusi`|Transcription of the speaker's utterance in a Latin-based orthography (see below).|
+|`English`|English translation.|
+|`Persian`|Persian translation, in Perso-Arabic script.|
+|`Time`|Start time from the source transcript, in `MM:SS` format. A small number of utterances have no time (blank).|
+
+Section headings inside each document identify the two parts of the elicitation: `Questionnaire` and `Story Narration`.
 
 ## 3\. Transcription and translation conventions
 
@@ -56,7 +56,7 @@ This corpus is the result of fieldwork conducted by Masoumeh Zarei in February a
 
 In the first part of each interview, Masoumeh Zarei showed the participants 20 event-driven pictures, each accompanied by three questions. First, they were asked to describe what they observed in each picture. Then they were asked two questions, one about an animate entity and the other about an inanimate entity, both of which were the subject of actions performed by an agent. In the second part, she played the Pear Story film for the participants and asked them to re-narrate it. A total of 780 minutes (13 hours) of voice recordings were made during the questionnaire and the narrative task. She then transcribed the recordings using the Kurdish Roman alphabet and translated them into Persian and English, and clause-level annotation was carried out as part of the work on the data.
 
-This release contains the Garrusi transcription and the English translation only. The audio recordings, the Persian translation and the annotation are not part of it (see section 6).
+This release contains the Garrusi transcription, the English translation, the Persian translation and the start times as they appear in the source Word documents. The audio recordings and the clause-level annotation are not part of it (see section 6).
 
 Phase 1 has two parts:
 
