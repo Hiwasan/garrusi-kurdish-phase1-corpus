@@ -15,7 +15,7 @@ A text corpus of elicited Mehraban Garrusi (Southern Kurdish) speech with Englis
 ## 1\. Contents
 
 ```
-data/          S01.tsv ... S30.tsv   one file per speaker
+data/          1.CZ_QS.docx ... 30.AZ_QS.docx   one file per speaker
 docs/          file-format.md, orthography.md, known-issues.md
 README.md  LICENSE  CITATION.cff
 ```
