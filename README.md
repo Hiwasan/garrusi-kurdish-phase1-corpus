@@ -46,7 +46,7 @@ Section headings inside each document identify the two parts of the elicitation:
 
 The corpus belongs to the research program *Passive and Relative Clauses in Iranian and non-Iranian Languages: Experimental and Empirical Approach*, initiated and led by Hiwa Asadpour.
 
-The programme began as Asadpour's postdoctoral project on passive and relative clauses in Mukri Kurdish, Kurmanji Kurdish and Persian, with extensions to Azeri Turkish and Armenian. Local researchers in Iran then joined the initiative to extend the work to further Iranian and non-Iranian languages, including Laki Kurdish, Nayini, Kahangi, Kilani, Sistani Persian, Azeri Turkish and Garrusi Kurdish. Garrusi was added when Masoumeh Zarei joined the programme. The programme began in 2019, and the collaboration on Garrusi dates from 2021. The consortium that collected the Phase 1 data was unfunded.
+The program began as Asadpour's postdoctoral project on passive and relative clauses in Mukri Kurdish, Kurmanji Kurdish and Persian, with extensions to Azeri Turkish and Armenian. Local researchers in Iran then joined the initiative to extend the work to further Iranian and non-Iranian languages, including Laki Kurdish, Nayini, Kahangi, Kilani, Sistani Persian, Azeri Turkish and Garrusi Kurdish. Garrusi was added when Masoumeh Zarei joined the program. The program began in 2019, and the collaboration on Garrusi dates from 2021. The consortium that collected the Phase 1 data was unfunded.
 
 ### The Garrusi fieldwork
 
