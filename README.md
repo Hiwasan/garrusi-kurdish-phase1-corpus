@@ -84,7 +84,7 @@ Both authors contributed equally to the corpus.
 
 Participants took part voluntarily and were not paid. Their consent to be recorded was documented at the start of each recording. Masoumeh Zarei, who obtained the participants' consent during the fieldwork, confirms that the consent and ethics arrangements permit the publication of the name of the village and other location details.
 
-Speakers appear only under the codes S01 to S30. Speakers' names and personal details are not published.
+Speakers appear in the published Word files under the original two-letter codes (e.g. `CZ`, `MR`), which also form the basis of the pseudonymous speaker IDs S01 to S30 used in the documentation and citation metadata. Names and personal details are not published. The mapping from the two-letter codes to individual speakers is held privately.
 
 Although speakers' names are not published, the corpus may contain information that, alone or combined with other information, could help to identify a speaker. Please do not attempt to identify the speakers, and follow the applicable standards of research ethics and data protection in your own use of the corpus.
 
