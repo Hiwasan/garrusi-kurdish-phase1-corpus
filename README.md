@@ -22,7 +22,7 @@ README.md  LICENSE  CITATION.cff
 
 ## 2\. Data format
 
-Each speaker is provided as a Microsoft Word (`.docx`) document. Each document contains a table listing the speaker's utterances, one per row, with the following columns:
+The data from each speaker is provided as a Microsoft Word (`.docx`) document. Each document contains a table listing the speaker's utterances, one per row, with the following columns:
 
 |Column|Content|
 |-|-|
@@ -76,7 +76,6 @@ Both authors contributed equally to the corpus.
 ## 6\. Not included
 
 * **Audio recordings.** Not published.
-* is release and may be added in a later version.
 * **Annotation.** Clause-level annotation was carried out as part of the work on the data. It is not part of this release.
 * **Speaker identities.** The key linking speaker codes to individuals is held privately and is not distributed.
 
